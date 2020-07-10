@@ -1,0 +1,59 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r setup}
+library(OpasnetUtils)
+library(tidyverse)
+```
+
+This code fetches the PM2.5 ERFs
+
+```{r}
+
+transl <- as_tibble(opbase.data("Op_fi3944", subset="Tautiluokittelu")) %>% # [[Tautitaakka Suomessa]]
+  mutate(Id=as.integer(as.character(Id)))
+
+# DALYs by causes (risks not included)
+dc <- as_tibble(opasnet.csv("2/2d/IHME_Fin_Risks_by_Cause.zip", wiki="opasnet_en",
+                            unzip="IHME-GBD_2017_DATA-8ce9adcf-1.csv",sep=",",dec=".",header=TRUE)) %>%
+  left_join(transl[transl$Type=="Cause",], by=c("cause_id"="Id")) %>%
+  mutate(cause_name = Result) # transl combines some entries from cause_name to Name (in Finnish: Result)
+
+objects.latest("Op_en5827", code_name="ERF_env2") #ERF for PM2.5 and others
+ERF <- ERF_env
+
+objects.latest("Op_en2261", code_name="BoDattr2") # Attributable BoD with the 2019 model version
+
+incidence <- Ovariable("incidence",data=data.frame(Result=1))
+
+case_burden <- 1
+
+population <- 1000000
+
+df <- read.csv("~/devel/ghg-notebooks/BoD.csv")[-1]
+colnames(df) <- c("Year", "Result", "Response")
+BoD <- Ovariable("BoD", data=df)
+
+exposure <- Ovariable(
+  "exposure",
+  data = data.frame(Exposure_agent="PM2.5", Result=5),
+  meta = list(unit="ug/m3")
+)
+
+# Download BoD from IHME
+# http://ghdx.healthdata.org/gbd-results-tool?params=gbd-api-2017-permalink/6bd1758de10f9a3c2a89ffc4b5ae4453
+
+BoDattr <- EvalOutput(BoDattr, verbose=TRUE, forceEval=TRUE)
+
+BoDattr <- oapply(BoDattr, INDEX=c("Year","Response","Exposure_agent"), FUN=mean)
+
+ggplot(BoDattr@output, aes(x=Year, y=BoDattrResult, colour=Response))+geom_line()
+
+```
+

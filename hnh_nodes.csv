@@ -1,0 +1,322 @@
+"","url","type","object_id","name","id","identifier","indicator_level","time_resolution","latest_value.value","latest_value.date","latest_value.unit"
+"1","https://aplans.api.hel.ninja/v1/action/290/","action",290,"Liikenteen solmukohtien palvelutarjonta ja vaihtojen sujuvuus","a290","1",NA,NA,NA,NA,NA
+"2","https://aplans.api.hel.ninja/v1/indicator/177/","indicator",177,"Liityntäpysäköinnin uudet autopaikat","i177",NA,"operational","year",3.980000e+02,2018-12-31,pcs
+"3","https://aplans.api.hel.ninja/v1/indicator/197/","indicator",197,"Joukkoliikenteen kulkumuoto-osuus","i197",NA,"tactical","year",3.300000e+01,2018-12-31,%
+"4","https://aplans.api.hel.ninja/v1/indicator/370/","indicator",370,"Liikenteen päästöt","i370",NA,"strategic","year",NA,NA,NA
+"5","https://aplans.api.hel.ninja/v1/indicator/353/","indicator",353,"Jalankulun ja pyöräliikenteen kulkumuoto-osuus","i353","Pötkylän segmentti","tactical","year",NA,NA,NA
+"6","https://aplans.api.hel.ninja/v1/indicator/113/","indicator",113,"Kävelyn kulkumuoto-osuus","i113",NA,"tactical","year",3.597000e+01,2018-12-31,%
+"7","https://aplans.api.hel.ninja/v1/indicator/2/","indicator",  2,"Kestävien kulkumuotojen osuus tehdyistä matkoista","i2",NA,"tactical","year",8.000000e+01,2018-12-31,%
+"8","https://aplans.api.hel.ninja/v1/indicator/29/","indicator", 29,"Polttomoottorihenkilöautoilla ajetut kilometrit","i29",NA,"tactical","year",2.003700e+03,2018-12-31,M km
+"9","https://aplans.api.hel.ninja/v1/indicator/11/","indicator", 11,"Henkilöautoilun kasvihuonekaasupäästöt","i11","ghg_emissions_cars","strategic","year",3.203628e+02,2018-12-31,kt (CO₂e.)/a
+"10","https://aplans.api.hel.ninja/v1/indicator/23/","indicator", 23,"Tieliikenteen kasvihuonekaasupäästöt","i23","ghg_emissions_road_transport_helsinki","strategic","year",NA,NA,NA
+"11","https://aplans.api.hel.ninja/v1/indicator/24/","indicator", 24,"Liikenteen kasvihuonekaasupäästöt","i24","ghg_emissions_transport_helsinki","strategic","year",6.542097e+02,2018-12-31,kt (CO₂e.)/a
+"12","https://aplans.api.hel.ninja/v1/indicator/5/","indicator",  5,"Helsingin kaupungin kasvihuonekaasupäästöt (scope 1-2)","i5","ghg_emissions_helsinki","strategic","year",2.559287e+03,2018-12-31,kt (CO₂e.)/a
+"13","https://aplans.api.hel.ninja/v1/indicator/284/","indicator",284,"Maatalouden kasvihuonekaasupäästöt","i284",NA,"strategic","year",9.000000e-01,2018-12-31,kt (CO₂e.)/a
+"14","https://aplans.api.hel.ninja/v1/indicator/233/","indicator",233,"Helsingin hiilinielut","i233",NA,"strategic","year",NA,NA,NA
+"15","https://aplans.api.hel.ninja/v1/indicator/237/","indicator",237,"Luonnonmukaisiksi suunnitellut uudet viheralueet","i237",NA,"operational","year",NA,NA,NA
+"16","https://aplans.api.hel.ninja/v1/indicator/235/","indicator",235,"Sopiviin kasvupaikkoihin istutettujen kaupunkipuiden lukumäärä","i235",NA,"operational","year",NA,NA,NA
+"17","https://aplans.api.hel.ninja/v1/indicator/234/","indicator",234,"Metsäpinta-ala Helsingissä","i234",NA,"tactical","year",NA,NA,NA
+"18","https://aplans.api.hel.ninja/v1/indicator/236/","indicator",236,"Rakennusmaaksi asemakaavoitettu metsäpinta-ala","i236",NA,"operational","year",NA,NA,NA
+"19","https://aplans.api.hel.ninja/v1/indicator/283/","indicator",283,"Jätteidenkäsittelyn kasvihuonekaasupäästöt","i283",NA,"strategic","year",7.500000e+01,2018-12-31,kt (CO₂e.)/a
+"20","https://aplans.api.hel.ninja/v1/indicator/66/","indicator", 66,"Teollisuuden ja työkoneiden kasvihuonekaasupäästöt","i66",NA,"strategic","year",1.900000e+01,2018-12-31,kt (CO₂e.)/a
+"21","https://aplans.api.hel.ninja/v1/indicator/261/","indicator",261,"Työkoneiden kasvihuonekaasupäästöt","i261",NA,"strategic","year",NA,NA,NA
+"22","https://aplans.api.hel.ninja/v1/indicator/262/","indicator",262,"Työkoneiden khk-päästöt Helsingin kaupungin rakennusurakoissa","i262",NA,"strategic","year",NA,NA,NA
+"23","https://aplans.api.hel.ninja/v1/indicator/265/","indicator",265,"Työkoneiden fossiilisen polttoaineen kulutus Helsingin katurakennusurakoissa","i265",NA,"tactical","month",NA,NA,NA
+"24","https://aplans.api.hel.ninja/v1/indicator/263/","indicator",263,"Osuus katurakennushankinnoista, joissa on vähimmäisvaatimuksena ilmastokriteerit","i263",NA,"operational","year",NA,NA,NA
+"25","https://aplans.api.hel.ninja/v1/indicator/264/","indicator",264,"Osuus katurakennuskilpailutuksista, joissa on vähimmäisvaatimuksena sähköllä toimivat työkoneet","i264",NA,"operational","year",0.000000e+00,2018-12-31,%
+"26","https://aplans.api.hel.ninja/v1/indicator/30/","indicator", 30,"Sähkönkulutuksen kasvihuonekaasupäästöt","i30","ghg_emissions_electricity_helsinki","strategic","year",3.717315e+02,2018-12-31,kt (CO₂e.)/a
+"27","https://aplans.api.hel.ninja/v1/indicator/92/","indicator", 92,"Kulutussähkönkulutus","i92","electricity_consumption","tactical","year",3.891360e+03,2018-12-31,GWh/a
+"28","https://aplans.api.hel.ninja/v1/indicator/96/","indicator", 96,"Teollisuuden sähkönkulutus","i96",NA,"tactical","year",NA,NA,NA
+"29","https://aplans.api.hel.ninja/v1/indicator/95/","indicator", 95,"Taloyhtiöiden omistamien kiinteistöjen sähkönkulutus","i95",NA,"tactical","year",NA,NA,NA
+"30","https://aplans.api.hel.ninja/v1/indicator/94/","indicator", 94,"Kaupungin omistamien kiinteistöjen sähkönkulutus","i94",NA,"tactical","year",NA,NA,NA
+"31","https://aplans.api.hel.ninja/v1/indicator/225/","indicator",225,"Energiankulutuksen vähenemä kohteissa, joissa kiinteistöautomsatiojärjestelmä uusittu","i225",NA,"operational","year",NA,NA,NA
+"32","https://aplans.api.hel.ninja/v1/indicator/102/","indicator",102,"Kaupungin omistamien kiinteistöjen kaukolämmönkulutus","i102","district_heating_demand_city_buildings_helsinki","tactical","year",1.073446e+03,2017-12-31,GWh/a
+"33","https://aplans.api.hel.ninja/v1/indicator/69/","indicator", 69,"Rakennuskannan kaukolämmönkulutus","i69","district_heating_demand_helsinki","tactical","year",6.700200e+03,2018-12-31,GWh/a
+"34","https://aplans.api.hel.ninja/v1/indicator/31/","indicator", 31,"Kaukolämmönkulutuksen kasvihuonekaasupäästöt","i31","ghg_emissions_district_heating_helsinki","strategic","year",1.361603e+03,2017-12-31,kt (CO₂e.)/a
+"35","https://aplans.api.hel.ninja/v1/indicator/25/","indicator", 25,"Lämmönkulutuksen kasvihuonekaasupäästöt","i25","ghg_emissions_heating_helsinki","strategic","year",1.438585e+03,2018-12-31,kt (CO₂e.)/a
+"36","https://aplans.api.hel.ninja/v1/indicator/291/","indicator",291,"Maalämmönkulutuksen kasvihuonekaasupäästöt","i291",NA,"strategic","year",NA,NA,NA
+"37","https://aplans.api.hel.ninja/v1/indicator/104/","indicator",104,"Sähkölämmityksen kasvihuonekaasupäästöt","i104",NA,"strategic","year",5.600000e+01,2018-12-31,kt (CO₂e.)/a
+"38","https://aplans.api.hel.ninja/v1/indicator/282/","indicator",282,"Sähkölämmityksen sähkönkulutus","i282",NA,"tactical","year",3.370000e+02,2018-12-31,GWh/a
+"39","https://aplans.api.hel.ninja/v1/indicator/107/","indicator",107,"Poistoilmalämpöpumpuilla tuotettu lämpöenergia","i107",NA,"tactical","year",NA,NA,NA
+"40","https://aplans.api.hel.ninja/v1/indicator/106/","indicator",106,"Maalämpöpumppujen käyttämä sähköenergia","i106",NA,"tactical","year",NA,NA,NA
+"41","https://aplans.api.hel.ninja/v1/indicator/105/","indicator",105,"Maalämpöpumpuilla tuotettu lämpöenergia","i105",NA,"tactical","year",NA,NA,NA
+"42","https://aplans.api.hel.ninja/v1/indicator/194/","indicator",194,"Kaupungin kiinteistöjen maalämpöpumpuilla tuotettu lämpöenergia","i194",NA,"operational","year",NA,NA,NA
+"43","https://aplans.api.hel.ninja/v1/indicator/35/","indicator", 35,"Öljylämmityksen kasvihuonekaasupäästöt","i35","ghg_emissions_oil_heating_helsinki","strategic","year",8.100000e+01,2015-12-31,kt (CO₂e.)/a
+"44","https://aplans.api.hel.ninja/v1/indicator/40/","indicator", 40,"Öljylämmitteisten kiinteistöjen pinta-ala","i40",NA,"tactical","year",1.765504e+06,2018-12-31,m2
+"45","https://aplans.api.hel.ninja/v1/indicator/41/","indicator", 41,"Öljylämmityksen korvaamiseen tähtäävien muutosremonttien lukumäärä","i41",NA,"tactical","year",NA,NA,NA
+"46","https://aplans.api.hel.ninja/v1/indicator/43/","indicator", 43,"Tavoitettujen öljylämmitteisten kiinteistöjen omistajien lukumäärä","i43",NA,"operational","year",NA,NA,NA
+"47","https://aplans.api.hel.ninja/v1/indicator/293/","indicator",293,"Rakennusmateriaalien kasvihuonekaasupäästöt","i293",NA,"strategic","year",NA,NA,NA
+"48","https://aplans.api.hel.ninja/v1/indicator/54/","indicator", 54,"Asemakaavoissa puurakennuksiin määrätty kerrosneliömäärä","i54",NA,"operational","year",NA,NA,NA
+"49","https://aplans.api.hel.ninja/v1/indicator/9/","indicator",  9,"Kaukolämmöntuotannon päästökerroin","i9","district_heat_unit_emissions","tactical","year",2.019248e+02,2018-12-31,g CO₂e/kWh
+"50","https://aplans.api.hel.ninja/v1/indicator/82/","indicator", 82,"Helen Oy:n kaukolämmöntuotannon kasvihuonekaasupäästöt","i82",NA,"tactical","year",NA,NA,NA
+"51","https://aplans.api.hel.ninja/v1/indicator/295/","indicator",295,"Lämpimän käyttöveden kulutus","i295",NA,"tactical","year",NA,NA,NA
+"52","https://aplans.api.hel.ninja/v1/indicator/226/","indicator",226,"Osuus HEKAn kohteista, joissa veden etäluenta ja mittaus mahdollista","i226",NA,"operational","year",NA,NA,NA
+"53","https://aplans.api.hel.ninja/v1/indicator/227/","indicator",227,"Älykkäitä energiaratkaisuja koskevia tontinluovutusehtoja sisältävien uusien vuokrasopimusten osuus","i227",NA,"tactical","year",NA,NA,NA
+"54","https://aplans.api.hel.ninja/v1/indicator/181/","indicator",181,"Toteutuneiden HNH-pilottien lukumäärä","i181","Sonja","tactical","year",NA,NA,NA
+"55","https://aplans.api.hel.ninja/v1/indicator/51/","indicator", 51,"Uusien rakennusten ominaislämmönkulutus","i51",NA,"tactical","year",NA,NA,NA
+"56","https://aplans.api.hel.ninja/v1/indicator/72/","indicator", 72,"Kiinteistöjen ominaislämmönkulutus","i72","building_energy_efficiency_helsinki","tactical","year",3.647945e+01,2017-12-31,kWh/m³
+"57","https://aplans.api.hel.ninja/v1/indicator/230/","indicator",230,"Kansallista tasoa tiukemmat energiatehokkuusehdot sisältävien uusien vuokrasopimusten osuus","i230",NA,"operational","year",NA,NA,NA
+"58","https://aplans.api.hel.ninja/v1/indicator/4/","indicator",  4,"Kaupungin omistamien kaukolämmitteisten kiinteistöjen ominaislämmönkulutus","i4","city_buildings_energy_efficiency_helsinki","tactical","year",1.370374e+02,2017-12-31,kWh/m2
+"59","https://aplans.api.hel.ninja/v1/indicator/215/","indicator",215,"Keskimääräinen parannus peruskorjattujen rakennusten E-luvuissa","i215",NA,"operational","year",2.710000e+01,2018-12-31,%
+"60","https://aplans.api.hel.ninja/v1/indicator/76/","indicator", 76,"Lämpöpumpuilla tuotettu lämmitysenergia Helsingin omistamiin kiinteistöihin","i76",NA,"tactical","year",NA,NA,NA
+"61","https://aplans.api.hel.ninja/v1/indicator/36/","indicator", 36,"Ominaislämmönkulutuksen väheneminen peruskorjauksessa","i36",NA,"tactical","year",NA,NA,NA
+"62","https://aplans.api.hel.ninja/v1/indicator/207/","indicator",207,"Lämmön talteenotolla varustettujen kohteiden osuus peruskorjatuista","i207",NA,"operational","year",NA,NA,NA
+"63","https://aplans.api.hel.ninja/v1/indicator/47/","indicator", 47,"HSY:n Ilmastoatlakseen merkittyjen energiaremontticasejen määrä","i47",NA,"tactical","week",NA,NA,NA
+"64","https://aplans.api.hel.ninja/v1/indicator/48/","indicator", 48,"Energia- ja ilmastoatlakseen käytetyt resurssit","i48",NA,"operational","year",NA,NA,NA
+"65","https://aplans.api.hel.ninja/v1/indicator/45/","indicator", 45,"Osuus taloyhtiöiden hallituksista, jotka ovat saaneet energiarenesanssikoulutuksen","i45",NA,"tactical","year",NA,NA,NA
+"66","https://aplans.api.hel.ninja/v1/indicator/193/","indicator",193,"Muiden kuin kaupungin rakentamien aurinkopaneeleiden piikkiteho","i193",NA,"tactical","year",2.053000e+00,2018-12-31,MW
+"67","https://aplans.api.hel.ninja/v1/indicator/110/","indicator",110,"Verkkoon kytkettyjen aurinkopaneeleiden piikkiteho","i110",NA,"tactical","year",5.108000e+00,2018-12-31,MW
+"68","https://aplans.api.hel.ninja/v1/indicator/108/","indicator",108,"Verkkoon kytketyillä aurinkopaneeleilla tuotettu sähköenergia","i108",NA,"tactical","year",4.599000e+00,2018-12-31,GWh/a
+"69","https://aplans.api.hel.ninja/v1/indicator/81/","indicator", 81,"Helen Oy:n sähköntuotannon kasvihuonekaasupäästöt","i81",NA,"strategic","year",NA,NA,NA
+"70","https://aplans.api.hel.ninja/v1/indicator/80/","indicator", 80,"Valtakunnallinen sähköntuotannon päästökerroin","i80","electricity_production_unit_emissions","tactical","year",9.552734e+01,2018-12-31,g CO₂e/kWh
+"71","https://aplans.api.hel.ninja/v1/indicator/281/","indicator",281,"Helen Oy:n rakentamien aurinkopaneeleiden piikkiteho","i281",NA,"tactical","year",1.646000e+00,2019-12-31,MW
+"72","https://aplans.api.hel.ninja/v1/indicator/111/","indicator",111,"Kaupungin rakentamien aurinkopaneeleiden piikkiteho","i111",NA,"operational","year",1.861950e+00,2018-12-31,MW
+"73","https://aplans.api.hel.ninja/v1/indicator/46/","indicator", 46,"Infotilaisuuksilla tavoitettujen taloyhtiöiden lukumäärä","i46",NA,"operational","year",NA,NA,NA
+"74","https://aplans.api.hel.ninja/v1/indicator/39/","indicator", 39,"Kävijöiden määrä Energia- ja ilmastoatlas-palveluissa","i39",NA,"operational","year",NA,NA,NA
+"75","https://aplans.api.hel.ninja/v1/indicator/37/","indicator", 37,"Taloyhtiöiden omistamien kiinteistöjen sääkorjattu ominaislämmönkulutus","i37",NA,"tactical","year",4.200000e+01,2014-12-31,kWh/m³
+"76","https://aplans.api.hel.ninja/v1/indicator/38/","indicator", 38,"Taloyhtiöiden omistamien kiinteistöjen lämmönkulutus","i38",NA,"tactical","year",NA,NA,NA
+"77","https://aplans.api.hel.ninja/v1/indicator/42/","indicator", 42,"Rakennusten lämmitysjärjestelmien säätötoimenpiteiden lukumäärä","i42",NA,"tactical","year",NA,NA,NA
+"78","https://aplans.api.hel.ninja/v1/indicator/44/","indicator", 44,"Energiatehokkuuden parantamiseen tähtäävän myönnetyn tuen määrä","i44",NA,"operational","year",NA,NA,NA
+"79","https://aplans.api.hel.ninja/v1/indicator/184/","indicator",184,"HNH-kriteereillä luovutettu kerrosala tontinluovutuskilpailuissa","i184",NA,"operational","year",NA,NA,NA
+"80","https://aplans.api.hel.ninja/v1/indicator/180/","indicator",180,"Läpikäydyt tontinluovutuksen HNH-pilotit","i180","Sonja","operational","year",NA,NA,NA
+"81","https://aplans.api.hel.ninja/v1/indicator/178/","indicator",178,"Tontinluovutusehdoissa vaadittu E-luokka","i178","Sonja","operational","year",NA,NA,NA
+"82","https://aplans.api.hel.ninja/v1/indicator/50/","indicator", 50,"Kaavamääräysten mukainen uusien rakennusten ominaislämmönkulutus","i50",NA,"operational","year",NA,NA,NA
+"83","https://aplans.api.hel.ninja/v1/indicator/253/","indicator",253,"HNH-kriteereillä järjestettyjen asuinkerrostalotontteja koskevien laatukilpailujen osuus","i253",NA,"operational","year",NA,NA,NA
+"84","https://aplans.api.hel.ninja/v1/indicator/179/","indicator",179,"Osuus tontinluovutuskilpailuista, joissa HNH-kriteerit","i179","Sonja","operational","year",NA,NA,NA
+"85","https://aplans.api.hel.ninja/v1/indicator/182/","indicator",182,"HNH-tontinluovutuskilpailujen lukumäärä","i182","Sonja","operational","year",NA,NA,NA
+"86","https://aplans.api.hel.ninja/v1/indicator/254/","indicator",254,"Osuus peruskorjaushankkeista, joissa saavutetaan vähintään 25% parannus E-luvussa","i254",NA,"operational","year",3.750000e+01,2018-12-31,%
+"87","https://aplans.api.hel.ninja/v1/indicator/93/","indicator", 93,"Katuvalojen sähkönkulutus","i93",NA,"tactical","year",NA,NA,NA
+"88","https://aplans.api.hel.ninja/v1/indicator/175/","indicator",175,"Pyöräilyn kulkumuoto-osuus","i175",NA,"tactical","year",1.100000e+01,2018-12-31,%
+"89","https://aplans.api.hel.ninja/v1/indicator/20/","indicator", 20,"Pyöräliikenteen määrä Helsingissä","i20",NA,"tactical","year",2.530000e+04,2017-12-31,pcs/d
+"90","https://aplans.api.hel.ninja/v1/indicator/19/","indicator", 19,"Tyytyväisyys Helsinkiin pyöräilykaupunkina","i19",NA,"tactical","year",3.120000e+00,2018-12-31,no unit
+"91","https://aplans.api.hel.ninja/v1/indicator/164/","indicator",164,"Tyytyväisyys pyöräilyyn soveltuviin reitteihin kantakaupungissa","i164","Sonja","tactical","year",2.790000e+00,2018-12-31,no unit
+"92","https://aplans.api.hel.ninja/v1/indicator/17/","indicator", 17,"Kantakaupungin pyöräverkon yksisuuntainen osuus","i17",NA,"tactical","month",NA,NA,NA
+"93","https://aplans.api.hel.ninja/v1/indicator/242/","indicator",242,"Baanabrändin mukaisten infotaulujen käyttöönotto baanaosuuksilla","i242",NA,"operational","year",0.000000e+00,2018-12-31,%
+"94","https://aplans.api.hel.ninja/v1/indicator/170/","indicator",170,"Tyytyväisyys pyöräväylien talvihoitoon","i170","Sonja","tactical","year",2.570000e+00,2018-12-31,no unit
+"95","https://aplans.api.hel.ninja/v1/indicator/158/","indicator",158,"Talvella pyöräilevien osuus","i158","Sonja","tactical","year",1.200000e+01,2018-12-31,%
+"96","https://aplans.api.hel.ninja/v1/indicator/166/","indicator",166,"Tyytyväisyys pyöräpysäköintiin muissa julkisissa kohteissa kuin asemilla","i166","Sonja","tactical","year",2.870000e+00,2018-12-31,no unit
+"97","https://aplans.api.hel.ninja/v1/indicator/198/","indicator",198,"Rakennettujen uusien pyöräpysäköintipaikkojen määrä","i198",NA,"operational","year",2.262000e+03,2019-12-31,pcs
+"98","https://aplans.api.hel.ninja/v1/indicator/167/","indicator",167,"Tyytyväisyys pyöräilyn ja joukkoliikenteen yhdistämiseen matkalla","i167","Sonja","tactical","year",3.060000e+00,2018-12-31,no unit
+"99","https://aplans.api.hel.ninja/v1/indicator/165/","indicator",165,"Tyytyväisyys polkupyörien pysäköintimahdollisuuksiin asemilla","i165","Sonja","tactical","year",2.900000e+00,2018-12-31,no unit
+"100","https://aplans.api.hel.ninja/v1/indicator/1/","indicator",  1,"Pyöräväylien pituus","i1",NA,"operational","year",1.322885e+03,2018-12-31,km
+"101","https://aplans.api.hel.ninja/v1/indicator/97/","indicator", 97,"Liikenteen sähkönkulutus","i97",NA,"tactical","year",NA,NA,NA
+"102","https://aplans.api.hel.ninja/v1/indicator/258/","indicator",258,"Osuus busseilla ajetusta suoritteesta, jossa käyttövoimana on sähkö","i258",NA,"tactical","year",NA,NA,NA
+"103","https://aplans.api.hel.ninja/v1/indicator/153/","indicator",153,"Joukkoliikenteen ilmastopäästöjen päästökerroin","i153",NA,"tactical","year",NA,NA,NA
+"104","https://aplans.api.hel.ninja/v1/indicator/151/","indicator",151,"Joukkoliikenteen kasvihuonekaasupäästöt","i151",NA,"strategic","year",NA,NA,NA
+"105","https://aplans.api.hel.ninja/v1/indicator/152/","indicator",152,"Joukkoliikenteen matkojen määrä","i152",NA,"tactical","year",NA,NA,NA
+"106","https://aplans.api.hel.ninja/v1/indicator/240/","indicator",240,"Uusien raitiotieväylien rakennettu pituus","i240",NA,"operational","year",NA,NA,NA
+"107","https://aplans.api.hel.ninja/v1/indicator/239/","indicator",239,"Yleissuunnitelmissa päätetty uuden raitiotieverkon pituus","i239",NA,"operational","year",NA,NA,NA
+"108","https://aplans.api.hel.ninja/v1/indicator/216/","indicator",216,"Raitioliikenteen keskinopeus","i216",NA,"tactical","year",1.460000e+01,2017-12-31,km/h
+"109","https://aplans.api.hel.ninja/v1/indicator/280/","indicator",280,"Raitioliikenteen pääkatujen remontointi","i280",NA,"operational","year",NA,NA,NA
+"110","https://aplans.api.hel.ninja/v1/indicator/217/","indicator",217,"Raitioliikenteen nopeuden variaatiokerroin","i217",NA,"tactical","year",NA,NA,NA
+"111","https://aplans.api.hel.ninja/v1/indicator/218/","indicator",218,"Raitioliikenteen luotettavuus","i218",NA,"tactical","year",NA,NA,NA
+"112","https://aplans.api.hel.ninja/v1/indicator/278/","indicator",278,"Osuus raitioverkon risteyksistä, joissa toimivat liikennevaloetuudet tai vihreä aalto","i278",NA,"operational","year",0.000000e+00,2017-12-31,%
+"113","https://aplans.api.hel.ninja/v1/indicator/279/","indicator",279,"Syväuraisiksi vaihdettujen raideristikoiden määrä","i279",NA,"operational","year",3.000000e+00,2017-12-31,pcs
+"114","https://aplans.api.hel.ninja/v1/indicator/112/","indicator",112,"Älykkään liikenteen ja liikennepalvelujen kulkumuoto-osuus","i112",NA,"tactical","year",NA,NA,NA
+"115","https://aplans.api.hel.ninja/v1/indicator/67/","indicator", 67,"Raide- ja laivaliikenteen kasvihuonekaasupäästöt","i67",NA,"strategic","year",NA,NA,NA
+"116","https://aplans.api.hel.ninja/v1/indicator/290/","indicator",290,"Helsingin satama-alueiden CO2-päästöt","i290",NA,"strategic","year",8.644700e+04,2018-12-31,t (CO₂)/a
+"117","https://aplans.api.hel.ninja/v1/indicator/211/","indicator",211,"Jakeluliikenteen kasvihuonekaasupäästöt","i211",NA,"tactical","year",NA,NA,NA
+"118","https://aplans.api.hel.ninja/v1/indicator/209/","indicator",209,"Lunastettujen jakeluliikenteen pysäköintitunnusten määrä","i209",NA,"operational","year",NA,NA,NA
+"119","https://aplans.api.hel.ninja/v1/indicator/210/","indicator",210,"Jakeluliikenteen kuormauspaikkojen käyttäjien määrä","i210",NA,"operational","year",NA,NA,NA
+"120","https://aplans.api.hel.ninja/v1/indicator/286/","indicator",286,"Henkilöautojen määrä arkihuippuaikana kantakaupungissa","i286",NA,"tactical","year",2.550000e+04,2018-12-31,pcs
+"121","https://aplans.api.hel.ninja/v1/indicator/232/","indicator",232,"Uusilta pysäköintimaksuvyöhykkeiltä saatavat pysäköintitulot","i232",NA,"operational","year",NA,NA,NA
+"122","https://aplans.api.hel.ninja/v1/indicator/231/","indicator",231,"Vähäpäästöisten ajoneuvojen pysäköintitulojen osuus kaikista pysäköintituloista","i231",NA,"operational","year",NA,NA,NA
+"123","https://aplans.api.hel.ninja/v1/indicator/91/","indicator", 91,"Ruuhkamaksusuunnitelman ajoneuvokilometrien vähennyspotentiaali","i91",NA,"operational","year",NA,NA,NA
+"124","https://aplans.api.hel.ninja/v1/indicator/285/","indicator",285,"Pysäköintipaikkojen määrä kantakaupungissa","i285",NA,"tactical","year",NA,NA,NA
+"125","https://aplans.api.hel.ninja/v1/indicator/33/","indicator", 33,"Pysäköintipaikkojen määrä per asukas","i33",NA,"tactical","year",NA,NA,NA
+"126","https://aplans.api.hel.ninja/v1/indicator/32/","indicator", 32,"Autopaikkojen määrä per asunto asemakaavoissa","i32",NA,"operational","year",NA,NA,NA
+"127","https://aplans.api.hel.ninja/v1/indicator/229/","indicator",229,"Vähäpäästöisten ajoneuvojen tunnusten osuus asukas- ja yrityspysäköintitunnuksista","i229",NA,"operational","year",NA,NA,NA
+"128","https://aplans.api.hel.ninja/v1/indicator/228/","indicator",228,"Asukas- ja yrityspysäköintitunnusten määrä","i228",NA,"operational","year",NA,NA,NA
+"129","https://aplans.api.hel.ninja/v1/indicator/3/","indicator",  3,"Sähköautojen osuus ensirekisteröidyistä autoista","i3",NA,"tactical","year",6.800000e-01,2018-12-31,%
+"130","https://aplans.api.hel.ninja/v1/indicator/27/","indicator", 27,"Sähköautojen latauspaikkojen määrä","i27",NA,"tactical","year",NA,NA,NA
+"131","https://aplans.api.hel.ninja/v1/indicator/238/","indicator",238,"Sähköautojen julkiset latausasemat","i238",NA,"tactical","year",NA,NA,NA
+"132","https://aplans.api.hel.ninja/v1/indicator/241/","indicator",241,"Sähköautojen latauspisteiden yleissuunnitelmassa olevien latauspaikkojen määrä","i241",NA,"operational","year",NA,NA,NA
+"133","https://aplans.api.hel.ninja/v1/indicator/28/","indicator", 28,"Yleisillä alueilla sijaitsevien sähköautojen latauspisteiden määrä","i28",NA,"operational","year",NA,NA,NA
+"134","https://aplans.api.hel.ninja/v1/indicator/26/","indicator", 26,"Sähköautojen latauspaikkojen osuus kaikista pysäköintipaikoista tontinluovutusehdoissa","i26",NA,"operational","year",NA,NA,NA
+"135","https://aplans.api.hel.ninja/v1/indicator/150/","indicator",150,"Kävely- ja pyöräily-ympäristön miellyttäväksi kokevien osuus","i150",NA,"tactical","year",NA,NA,NA
+"136","https://aplans.api.hel.ninja/v1/indicator/176/","indicator",176,"Liityntäpysäköinnin uudet pyöräpaikat","i176",NA,"operational","year",8.560000e+02,2019-12-31,pcs
+"137","https://aplans.api.hel.ninja/v1/indicator/339/","indicator",339,"Myydyt työsuhdematkaliput Helsingissä","i339",NA,"tactical","year",NA,NA,NA
+"138","https://aplans.api.hel.ninja/v1/indicator/296/","indicator",296,"Tiivis joukkoliikennettä suosiva kaupunkirakenne","i296",NA,"tactical","year",NA,NA,NA
+"139","https://aplans.api.hel.ninja/v1/indicator/243/","indicator",243,"Täydentämisrakennuskohteiden kerrosala","i243",NA,"operational","year",NA,NA,NA
+"140","https://aplans.api.hel.ninja/v1/indicator/244/","indicator",244,"Täydentämisrakennuskohteiden osuus kaikesta rakentamisesta","i244",NA,"operational","year",NA,NA,NA
+"141","https://aplans.api.hel.ninja/v1/indicator/52/","indicator", 52,"Kerrosala, joka on kaavoitettu raideliikenteen lähelle","i52",NA,"operational","year",NA,NA,NA
+"142","https://aplans.api.hel.ninja/v1/indicator/206/","indicator",206,"Toteutettujen Solmu-toimenpiteiden määrä","i206",NA,"operational","year",0.000000e+00,2017-12-31,pcs
+"143","https://aplans.api.hel.ninja/v1/action/291/","action",291,"Pyöräliikenteen kantakaupungin tavoiteverkko","a291","2",NA,NA,NA,NA,NA
+"144","https://aplans.api.hel.ninja/v1/indicator/18/","indicator", 18,"Kantakaupungin pyöräilyn tavoiteverkon toteutunut pituus","i18",NA,"operational","year",3.250000e+01,2019-12-31,km
+"145","https://aplans.api.hel.ninja/v1/indicator/392/","indicator",392,"Suunnitellut baana- ja pyöräliikenteen pääväylät","i392",NA,"operational","year",2.400000e+01,2019-12-31,km
+"146","https://aplans.api.hel.ninja/v1/action/292/","action",292,"Pyöräliikenteen baanaverkko","a292","3",NA,NA,NA,NA,NA
+"147","https://aplans.api.hel.ninja/v1/indicator/34/","indicator", 34,"Pyöräliikenteen baanaverkon toteutunut pituus","i34",NA,"operational","year",6.000000e+00,2019-12-31,km
+"148","https://aplans.api.hel.ninja/v1/action/293/","action",293,"Pyörätieverkon talvihoidon korkea taso","a293","4",NA,NA,NA,NA,NA
+"149","https://aplans.api.hel.ninja/v1/indicator/185/","indicator",185,"Priorisoidun talvihoidon piirissä olevat pyörätiet","i185",NA,"operational","year",3.200000e+01,2018-12-31,km
+"150","https://aplans.api.hel.ninja/v1/action/294/","action",294,"Miellyttävä ja turvallinen kävely-ympäristö","a294","5",NA,NA,NA,NA,NA
+"151","https://aplans.api.hel.ninja/v1/indicator/375/","indicator",375,"Kävelyn edistämisohjelma on valmistunut","i375",NA,"","year",NA,NA,NA
+"152","https://aplans.api.hel.ninja/v1/action/295/","action",295,"Pyöräilyyn liittyvät palvelut","a295","6",NA,NA,NA,NA,NA
+"153","https://aplans.api.hel.ninja/v1/action/296/","action",296,"Raitioliikenteen kehittämisohjelma","a296","7",NA,NA,NA,NA,NA
+"154","https://aplans.api.hel.ninja/v1/action/297/","action",297,"Kestävä liikenne ja maankäytön suunnittelu","a297","8",NA,NA,NA,NA,NA
+"155","https://aplans.api.hel.ninja/v1/indicator/335/","indicator",335,"Täydennysrakennuskohteiden osuus kaikesta asemakaavoituksesta","i335",NA,"","year",NA,NA,NA
+"156","https://aplans.api.hel.ninja/v1/action/298/","action",298,"Pyöräliikenteen kehittämisohjelma ja polkupyörien pysäköinnin kehittämisohjelma","a298","9",NA,NA,NA,NA,NA
+"157","https://aplans.api.hel.ninja/v1/action/299/","action",299,"Ajoneuvoliikenteen hinnoittelujärjestelmä","a299","10",NA,NA,NA,NA,NA
+"158","https://aplans.api.hel.ninja/v1/indicator/374/","indicator",374,"Selvitys on valmis","i374",NA,"operational","year",NA,NA,NA
+"159","https://aplans.api.hel.ninja/v1/action/300/","action",300,"Pysäköintipolitiikka ja pysäköinnin hinnoittelu","a300","11",NA,NA,NA,NA,NA
+"160","https://aplans.api.hel.ninja/v1/indicator/333/","indicator",333,"Tehtävä on valmis","i333","Tehtävä on valmis","operational","year",NA,NA,NA
+"161","https://aplans.api.hel.ninja/v1/action/304/","action",304,"Pysäköintinormin uudistaminen","a304","15",NA,NA,NA,NA,NA
+"162","https://aplans.api.hel.ninja/v1/action/306/","action",306,"Ympäristövyöhykkeen kehittäminen","a306","17",NA,NA,NA,NA,NA
+"163","https://aplans.api.hel.ninja/v1/indicator/364/","indicator",364,"Ympäristövyöhykkeen kehittämisen toimenpiteet tunnistettu","i364",NA,"operational","year",NA,NA,NA
+"164","https://aplans.api.hel.ninja/v1/action/307/","action",307,"Sähköisten henkilöautojen julkisen latausinfran rakentaminen","a307","18",NA,NA,NA,NA,NA
+"165","https://aplans.api.hel.ninja/v1/action/308/","action",308,"Kuljetusten ja työkoneurakoiden hankintakriteerit","a308","19",NA,NA,NA,NA,NA
+"166","https://aplans.api.hel.ninja/v1/indicator/391/","indicator",391,"Kalustoon ja kuljetuspalveluihin liittyvät kriteeristöt päivitetty","i391","Kaluston ja kuljetuspalveluiden kriteerit","","year",NA,NA,NA
+"167","https://aplans.api.hel.ninja/v1/action/309/","action",309,"Kuljetuskaluston ja käyttövoimien hankintakriteerit","a309","20",NA,NA,NA,NA,NA
+"168","https://aplans.api.hel.ninja/v1/indicator/369/","indicator",369,"Käytetyn uusiutuvan polttoaineen osuus","i369",NA,"operational","year",NA,NA,NA
+"169","https://aplans.api.hel.ninja/v1/action/310/","action",310,"Kaupunkilogistiikka ja jakeluliikenne","a310","21",NA,NA,NA,NA,NA
+"170","https://aplans.api.hel.ninja/v1/action/311/","action",311,"Bussikaluston päästöttömyyden edistäminen","a311","22",NA,NA,NA,NA,NA
+"171","https://aplans.api.hel.ninja/v1/indicator/256/","indicator",256,"Osuus kilpailutettavasta bussiliikennekalustosta, jossa vaaditaan sähköbusseja","i256",NA,"operational","year",NA,NA,NA
+"172","https://aplans.api.hel.ninja/v1/indicator/257/","indicator",257,"Osuus kilpailutettavasta bussiliikennekalustosta, jossa vaaditaan biopolttoaineiden käyttöä","i257",NA,"operational","year",NA,NA,NA
+"173","https://aplans.api.hel.ninja/v1/action/312/","action",312,"Bussien latausinfra","a312","23",NA,NA,NA,NA,NA
+"174","https://aplans.api.hel.ninja/v1/indicator/367/","indicator",367,"Bussien latausinfran määrä","i367",NA,"operational","year",NA,NA,NA
+"175","https://aplans.api.hel.ninja/v1/action/313/","action",313,"Hiilineutraali Satama 2035 -toimenpideohjelma","a313","24",NA,NA,NA,NA,NA
+"176","https://aplans.api.hel.ninja/v1/action/314/","action",314,"Länsisataman liikenteen sujuvoittaminen","a314","25",NA,NA,NA,NA,NA
+"177","https://aplans.api.hel.ninja/v1/indicator/376/","indicator",376,"Jätkäsaaren infra sovitun mukaisesti valmiina","i376",NA,"","year",NA,NA,NA
+"178","https://aplans.api.hel.ninja/v1/indicator/377/","indicator",377,"Raskaan liikenteen kasvihuonekaasupäästöt","i377",NA,"","year",NA,NA,NA
+"179","https://aplans.api.hel.ninja/v1/action/316/","action",316,"Uudet liikkumispalvelut","a316","27",NA,NA,NA,NA,NA
+"180","https://aplans.api.hel.ninja/v1/indicator/368/","indicator",368,"Liikkumispalveluiden määrä","i368",NA,"operational","year",NA,NA,NA
+"181","https://aplans.api.hel.ninja/v1/action/317/","action",317,"Älyliikenne Helsingissä -toimenpideohjelma","a317","28",NA,NA,NA,NA,NA
+"182","https://aplans.api.hel.ninja/v1/action/318/","action",318,"Kestävien liikkumismuotojen edistäminen viestinnällä","a318","29",NA,NA,NA,NA,NA
+"183","https://aplans.api.hel.ninja/v1/action/319/","action",319,"Liikkumissuunnitelmat","a319","30",NA,NA,NA,NA,NA
+"184","https://aplans.api.hel.ninja/v1/indicator/338/","indicator",338,"Yritykset, joissa tehty liikkumissuunnitelma (koko Helsinki)","i338",NA,"operational","year",1.400000e+01,2019-12-31,pcs
+"185","https://aplans.api.hel.ninja/v1/indicator/337/","indicator",337,"Työntekijät, joita liikkumissuunnitelma koskee (koko Helsinki)","i337",NA,"operational","year",7.312000e+03,2019-12-31,pcs
+"186","https://aplans.api.hel.ninja/v1/action/321/","action",321,"Hukkalämpöjen talteenotto","a321","32",NA,NA,NA,NA,NA
+"187","https://aplans.api.hel.ninja/v1/indicator/77/","indicator", 77,"Tunnistettu hukkalämpö- tai lämmöntalteenoton energiansäästöpotentiaali","i77",NA,"operational","year",NA,NA,NA
+"188","https://aplans.api.hel.ninja/v1/indicator/78/","indicator", 78,"Toteutunut energiansäästö hukkalämpö- tai lämmöntalteenottokohteista","i78",NA,"operational","year",NA,NA,NA
+"189","https://aplans.api.hel.ninja/v1/action/324/","action",324,"Kysyntäjouston pilotointi","a324","35",NA,NA,NA,NA,NA
+"190","https://aplans.api.hel.ninja/v1/action/326/","action",326,"Uusiutuvan energian lisääminen kaupungin rakennuskannassa","a326","37",NA,NA,NA,NA,NA
+"191","https://aplans.api.hel.ninja/v1/action/327/","action",327,"Rakentamisen ja ylläpidon hankintakriteerit","a327","38",NA,NA,NA,NA,NA
+"192","https://aplans.api.hel.ninja/v1/indicator/378/","indicator",378,"Lämmön kokonaiskulutus","i378","Lämmön kokonaiskulutus","","year",NA,NA,NA
+"193","https://aplans.api.hel.ninja/v1/action/328/","action",328,"Osaamisen kasvattaminen rakentamisessa","a328","39",NA,NA,NA,NA,NA
+"194","https://aplans.api.hel.ninja/v1/indicator/390/","indicator",390,"Toteutettujen rakentamisen hankintojen kehitysprojektien lukumäärä","i390","Toteutettujen rakentamisen hankintojen kehityspr","","year",NA,NA,NA
+"195","https://aplans.api.hel.ninja/v1/action/329/","action",329,"Menettelytavat intressien priorisointiin","a329","40",NA,NA,NA,NA,NA
+"196","https://aplans.api.hel.ninja/v1/action/330/","action",330,"Hankesuunnittelun kehittäminen","a330","41",NA,NA,NA,NA,NA
+"197","https://aplans.api.hel.ninja/v1/action/331/","action",331,"Elinkaaripäästöjen minimoiminen","a331","42",NA,NA,NA,NA,NA
+"198","https://aplans.api.hel.ninja/v1/action/332/","action",332,"Plusenergiarakentaminen","a332","43",NA,NA,NA,NA,NA
+"199","https://aplans.api.hel.ninja/v1/indicator/379/","indicator",379,"Plusenergiapilottien lukumäärä","i379",NA,"operational","year",NA,NA,NA
+"200","https://aplans.api.hel.ninja/v1/action/335/","action",335,"Päästöttömät työmaakoneet","a335","46",NA,NA,NA,NA,NA
+"201","https://aplans.api.hel.ninja/v1/action/336/","action",336,"Lämmön talteenoton parantaminen peruskorjauksissa","a336","47",NA,NA,NA,NA,NA
+"202","https://aplans.api.hel.ninja/v1/action/337/","action",337,"Energiatehokkuus peruskorjauksissa","a337","48",NA,NA,NA,NA,NA
+"203","https://aplans.api.hel.ninja/v1/action/339/","action",339,"HEKA:n kiinteistöautomaation uusiminen","a339","50",NA,NA,NA,NA,NA
+"204","https://aplans.api.hel.ninja/v1/action/343/","action",343,"LED-katuvalaistus","a343","54",NA,NA,NA,NA,NA
+"205","https://aplans.api.hel.ninja/v1/indicator/383/","indicator",383,"LED-lamppujen osuus katuvalaistuksessa","i383",NA,"","year",NA,NA,NA
+"206","https://aplans.api.hel.ninja/v1/indicator/384/","indicator",384,"Ulkovalaistuksen energiankulutus","i384",NA,"","year",NA,NA,NA
+"207","https://aplans.api.hel.ninja/v1/action/347/","action",347,"Asemakaavamääräysten kehittäminen","a347","58",NA,NA,NA,NA,NA
+"208","https://aplans.api.hel.ninja/v1/action/348/","action",348,"Tontinluovutuksen energiatehokkuusehdot","a348","59",NA,NA,NA,NA,NA
+"209","https://aplans.api.hel.ninja/v1/action/356/","action",356,"Energiarenessanssi-ohjelma","a356","67",NA,NA,NA,NA,NA
+"210","https://aplans.api.hel.ninja/v1/action/357/","action",357,"Öljylämmityksestä luopuminen ja sähkölämmityksen korvaaminen uusiutuvilla","a357","68",NA,NA,NA,NA,NA
+"211","https://aplans.api.hel.ninja/v1/action/358/","action",358,"3D-Energia- ja ilmastoatlas","a358","69",NA,NA,NA,NA,NA
+"212","https://aplans.api.hel.ninja/v1/action/359/","action",359,"Taloyhtiöpäättäjien energiaosaamisen parantaminen","a359","70",NA,NA,NA,NA,NA
+"213","https://aplans.api.hel.ninja/v1/action/360/","action",360,"Helen hiilineutraali 2035","a360","71",NA,NA,NA,NA,NA
+"214","https://aplans.api.hel.ninja/v1/action/362/","action",362,"Uusiutuvan sähkön hankinta","a362","73",NA,NA,NA,NA,NA
+"215","https://aplans.api.hel.ninja/v1/indicator/389/","indicator",389,"Hankitun uusiutuvan sähkön määrä ja osuus koko sähkön kulutuksesta","i389","Hankitun uusiutuvan sähkön määrä ja osuus koko s","","year",NA,NA,NA
+"216","https://aplans.api.hel.ninja/v1/action/366/","action",366,"Hybridilämmityksen edistäminen","a366","77",NA,NA,NA,NA,NA
+"217","https://aplans.api.hel.ninja/v1/action/377/","action",377,"Puurakentamisen edistäminen asemakaavoituksella","a377","88",NA,NA,NA,NA,NA
+"218","https://aplans.api.hel.ninja/v1/action/379/","action",379,"Ilmastonmuutos koulutyössä","a379","90",NA,NA,NA,NA,NA
+"219","https://aplans.api.hel.ninja/v1/indicator/365/","indicator",365,"Täydennyskoulutettujen opettajien määrä","i365",NA,"operational","year",NA,NA,NA
+"220","https://aplans.api.hel.ninja/v1/action/380/","action",380,"Yhteistyö koulujen ja oppilaitosten kanssa","a380","91",NA,NA,NA,NA,NA
+"221","https://aplans.api.hel.ninja/v1/indicator/340/","indicator",340,"Harjoittelupaikkojen määrä","i340",NA,"operational","year",NA,NA,NA
+"222","https://aplans.api.hel.ninja/v1/action/381/","action",381,"Ympäristökasvatus","a381","92",NA,NA,NA,NA,NA
+"223","https://aplans.api.hel.ninja/v1/indicator/366/","indicator",366,"Vihreä Lippu -päiväkotien, peruskoulujen ja lukioiden määrä","i366",NA,"operational","year",NA,NA,NA
+"224","https://aplans.api.hel.ninja/v1/action/382/","action",382,"Ilmastonmuutoskoulutus","a382","93",NA,NA,NA,NA,NA
+"225","https://aplans.api.hel.ninja/v1/indicator/224/","indicator",224,"Kaupunkilaisille suunnattujen ympäristökasvatustapahtumien määrä","i224",NA,"operational","year",NA,NA,NA
+"226","https://aplans.api.hel.ninja/v1/indicator/220/","indicator",220,"Järjestettyjen ympäristöosaamiskurssien määrä","i220",NA,"operational","year",NA,NA,NA
+"227","https://aplans.api.hel.ninja/v1/action/383/","action",383,"Kaupunkiviljelyn edistäminen","a383","94",NA,NA,NA,NA,NA
+"228","https://aplans.api.hel.ninja/v1/indicator/330/","indicator",330,"Kaupunkiviljelypaikkojen määrä","i330",NA,"operational","year",NA,NA,NA
+"229","https://aplans.api.hel.ninja/v1/action/384/","action",384,"Ilmastoystävällisten ruokien lisääminen ruokalistoille","a384","95",NA,NA,NA,NA,NA
+"230","https://aplans.api.hel.ninja/v1/indicator/417/","indicator",417,"Kasvisruokien määrä kuuden viikon ruokalistalla","i417",NA,"operational","year",NA,NA,NA
+"231","https://aplans.api.hel.ninja/v1/indicator/418/","indicator",418,"Reseptiikassa tehdyt muutokset lihan ja maitotuotteiden käytön vähentämiseksi","i418",NA,"operational","year",NA,NA,NA
+"232","https://aplans.api.hel.ninja/v1/indicator/419/","indicator",419,"Toimipaikkojen määrä, joissa on kasvipohjainen ruokajuomavaihtoehto tarjolla","i419",NA,"operational","year",NA,NA,NA
+"233","https://aplans.api.hel.ninja/v1/action/386/","action",386,"Ruokahävikin vähentäminen kaupungin ruokapalveluissa","a386","97",NA,NA,NA,NA,NA
+"234","https://aplans.api.hel.ninja/v1/indicator/415/","indicator",415,"Toimipaikat, joissa hävikin hallinnan seurantajärjestelmät on otettu käyttöön","i415",NA,"operational","year",NA,NA,NA
+"235","https://aplans.api.hel.ninja/v1/indicator/416/","indicator",416,"Toteutettujen ruokahävikkikampanjoiden lukumäärä","i416",NA,"operational","year",NA,NA,NA
+"236","https://aplans.api.hel.ninja/v1/action/387/","action",387,"Ruoan kuljetuksen ilmastopäästöt","a387","98",NA,NA,NA,NA,NA
+"237","https://aplans.api.hel.ninja/v1/action/389/","action",389,"Tapahtumien ympäristövaikutusten vähentäminen","a389","100",NA,NA,NA,NA,NA
+"238","https://aplans.api.hel.ninja/v1/indicator/354/","indicator",354,"Tapahtumille rakennettujen Ekokompassi-ympäristöjärjestelmien määrä","i354",NA,"operational","year",NA,NA,NA
+"239","https://aplans.api.hel.ninja/v1/action/390/","action",390,"Henkilökohtainen päästökauppa","a390","101",NA,NA,NA,NA,NA
+"240","https://aplans.api.hel.ninja/v1/indicator/355/","indicator",355,"Päästökaupassa mukana olevien kaupunkilaisten määrä","i355",NA,"operational","year",NA,NA,NA
+"241","https://aplans.api.hel.ninja/v1/action/391/","action",391,"Merellinen strategia","a391","102",NA,NA,NA,NA,NA
+"242","https://aplans.api.hel.ninja/v1/action/392/","action",392,"Jätteiden syntypaikkalajittelu","a392","103",NA,NA,NA,NA,NA
+"243","https://aplans.api.hel.ninja/v1/indicator/351/","indicator",351,"Kartoitettujen kohteiden määrä","i351",NA,"operational","year",NA,NA,NA
+"244","https://aplans.api.hel.ninja/v1/action/393/","action",393,"Jätekuljetusten optimointi","a393","104",NA,NA,NA,NA,NA
+"245","https://aplans.api.hel.ninja/v1/indicator/382/","indicator",382,"Palaveri pidetty","i382",NA,"","year",NA,NA,NA
+"246","https://aplans.api.hel.ninja/v1/action/395/","action",395,"Pakilan työkeskuksen, Uusix-verstaiden ja Pääkaupunkiseudun Kierrätyskeskuksen asiakasmäärien lisääminen","a395","106",NA,NA,NA,NA,NA
+"247","https://aplans.api.hel.ninja/v1/indicator/208/","indicator",208,"Asiakaskäynnit","i208",NA,"operational","year",NA,NA,NA
+"248","https://aplans.api.hel.ninja/v1/action/396/","action",396,"Hankintojen ilmastokriteerien kehittäminen","a396","107",NA,NA,NA,NA,NA
+"249","https://aplans.api.hel.ninja/v1/indicator/88/","indicator", 88,"Kilpailutukset, joissa ilmastokriteereitä käytetty vähimmäisvaatimuksena tai vertailuperusteena","i88",NA,"operational","year",NA,NA,NA
+"250","https://aplans.api.hel.ninja/v1/indicator/87/","indicator", 87,"Uusien ja päivitettyjen kriteerien määrä","i87",NA,"operational","year",NA,NA,NA
+"251","https://aplans.api.hel.ninja/v1/indicator/246/","indicator",246,"Järjestettyjen vähähiilisten hankintojen koulutusten määrä","i246",NA,"operational","year",NA,NA,NA
+"252","https://aplans.api.hel.ninja/v1/indicator/255/","indicator",255,"Osuus hankinnoista, joissa ilmastokriteerit on huomioitu","i255",NA,"operational","year",NA,NA,NA
+"253","https://aplans.api.hel.ninja/v1/action/397/","action",397,"Hankintojen ilmastopäästöjen tunnistaminen ja arviointi","a397","108",NA,NA,NA,NA,NA
+"254","https://aplans.api.hel.ninja/v1/indicator/250/","indicator",250,"Sellaisten hankintaprosessien määrä, joiden yhteydessä hankinnan hiilijalanjälki on laskettu","i250",NA,"operational","year",NA,NA,NA
+"255","https://aplans.api.hel.ninja/v1/indicator/266/","indicator",266,"Sellaisten hankintojen määrä, jossa hankinnan hiilijalanjälki on vaikuttanut hankintapäätökseen","i266",NA,"operational","year",NA,NA,NA
+"256","https://aplans.api.hel.ninja/v1/indicator/267/","indicator",267,"CO2 vähennysten määrä sellaisissa hankinnoissa, joissa hiilijalanjälki ohjaavana tekijänä","i267",NA,"operational","year",NA,NA,NA
+"257","https://aplans.api.hel.ninja/v1/action/399/","action",399,"Hankintastrategisten tavoitteiden päivittäminen","a399","110",NA,NA,NA,NA,NA
+"258","https://aplans.api.hel.ninja/v1/indicator/388/","indicator",388,"Hankintastrategia valmistunut ja sisältää vastuullisuustavoitteita","i388","Hankintastrategia valmistunut ja sisältää vastuu","","year",NA,NA,NA
+"259","https://aplans.api.hel.ninja/v1/action/400/","action",400,"Julkisten toimijoiden yhteistyö vastuullisissa hankinnoissa","a400","111",NA,NA,NA,NA,NA
+"260","https://aplans.api.hel.ninja/v1/indicator/385/","indicator",385,"Yhteistyöverkostojen lukumäärä","i385","Yhteistyöverkostojen lukumäärä","","year",NA,NA,NA
+"261","https://aplans.api.hel.ninja/v1/action/401/","action",401,"Hankintojen ohjeiden ja raportoinnin kehittäminen","a401","112",NA,NA,NA,NA,NA
+"262","https://aplans.api.hel.ninja/v1/indicator/386/","indicator",386,"Vastuullisten hankintojen kriteeripankki avattu Helmeen","i386","Vastuullisten hankintojen kriteeripankki avattu","","year",NA,NA,NA
+"263","https://aplans.api.hel.ninja/v1/indicator/387/","indicator",387,"Sopimushallintajärjestelmässä otettu käyttöön vastuullisuuskriteerien sisällönseuranta","i387","Sopimushallintajärjestelmässä otettu käyttöön v","","year",NA,NA,NA
+"264","https://aplans.api.hel.ninja/v1/action/402/","action",402,"Elintarvike- ja ruokapalveluhankintojen ilmastokriteerit","a402","113",NA,NA,NA,NA,NA
+"265","https://aplans.api.hel.ninja/v1/indicator/201/","indicator",201,"Ilmastokriteerien läpileikkaavuus elintarvikehankintakategorioissa","i201",NA,"operational","year",NA,NA,NA
+"266","https://aplans.api.hel.ninja/v1/indicator/200/","indicator",200,"Markkinavuoropuhelutilaisuuksien määrä suhteessa elintarvikehankintojen määrään","i200",NA,"operational","year",NA,NA,NA
+"267","https://aplans.api.hel.ninja/v1/indicator/204/","indicator",204,"Sopimuskumppaneiden kanssa pidettyjen ympäristö- ja ilmastoasioiden käsittelykertojen lukumäärä","i204",NA,"operational","year",NA,NA,NA
+"268","https://aplans.api.hel.ninja/v1/indicator/202/","indicator",202,"Ilmastokriteerit omaavien elintarvikehankintojen osuus - hankintakategoriat","i202",NA,"operational","year",NA,NA,NA
+"269","https://aplans.api.hel.ninja/v1/indicator/259/","indicator",259,"Elintarvikehankinnat, joissa on käytetty ilmastokriteerejä vähimmäisvaatimuksena (lkm)","i259",NA,"operational","year",NA,NA,NA
+"270","https://aplans.api.hel.ninja/v1/indicator/260/","indicator",260,"Elintarvikehankinnat, joissa on käytetty ilmastokriteerejä vähimmäisvaatimuksena (hinta)","i260",NA,"operational","year",NA,NA,NA
+"271","https://aplans.api.hel.ninja/v1/action/403/","action",403,"Kiertotalouden ja jakamistalouden tiekartta","a403","114",NA,NA,NA,NA,NA
+"272","https://aplans.api.hel.ninja/v1/indicator/79/","indicator", 79,"Toimenpiteiden CO2-säästöpotentiaali","i79",NA,"operational","year",NA,NA,NA
+"273","https://aplans.api.hel.ninja/v1/action/404/","action",404,"Tila- ja resurssivarauspalvelu","a404","115",NA,NA,NA,NA,NA
+"274","https://aplans.api.hel.ninja/v1/indicator/360/","indicator",360,"Kaupungin yhteisessä varausjärjestelmässä olevien tilojen ja resurssien määrä","i360",NA,"operational","year",NA,NA,NA
+"275","https://aplans.api.hel.ninja/v1/action/405/","action",405,"Kirjasto on jakamistalouden suunnannäyttäjä","a405","116",NA,NA,NA,NA,NA
+"276","https://aplans.api.hel.ninja/v1/indicator/361/","indicator",361,"Varaamon kautta varattujen tilojen käyttöaste","i361",NA,"operational","year",NA,NA,NA
+"277","https://aplans.api.hel.ninja/v1/indicator/362/","indicator",362,"Varattavien laitteiden lainaus- ja käyttökerrat","i362",NA,"operational","year",NA,NA,NA
+"278","https://aplans.api.hel.ninja/v1/indicator/363/","indicator",363,"Kirjastojen määrä, jotka tekevät yhteistyötä vertaispalvelutoimijoiden kanssa","i363",NA,"operational","year",NA,NA,NA
+"279","https://aplans.api.hel.ninja/v1/action/406/","action",406,"Kalusteiden kierrätys kaupunkiorganisaatiossa","a406","117",NA,NA,NA,NA,NA
+"280","https://aplans.api.hel.ninja/v1/indicator/212/","indicator",212,"Kalustekierrätyssovelluksen käyttöaste","i212",NA,"operational","year",NA,NA,NA
+"281","https://aplans.api.hel.ninja/v1/action/407/","action",407,"Hävikki- ja ylijäämäruoan hyödyntäminen","a407","118",NA,NA,NA,NA,NA
+"282","https://aplans.api.hel.ninja/v1/indicator/356/","indicator",356,"Ruokaa lahjoittavien toimijoiden määrä","i356",NA,"operational","year",NA,NA,NA
+"283","https://aplans.api.hel.ninja/v1/action/408/","action",408,"Viherjätteen hyödyntäminen","a408","119",NA,NA,NA,NA,NA
+"284","https://aplans.api.hel.ninja/v1/indicator/341/","indicator",341,"Käsitellyt biomassat","i341",NA,"operational","year",NA,NA,NA
+"285","https://aplans.api.hel.ninja/v1/action/410/","action",410,"Kiertotalouden yhteistyö","a410","121",NA,NA,NA,NA,NA
+"286","https://aplans.api.hel.ninja/v1/indicator/342/","indicator",342,"Hankkeiden määrä","i342",NA,"operational","year",NA,NA,NA
+"287","https://aplans.api.hel.ninja/v1/action/411/","action",411,"Osallistava budjetointi","a411","122",NA,NA,NA,NA,NA
+"288","https://aplans.api.hel.ninja/v1/indicator/352/","indicator",352,"Ehdotusten määrä","i352",NA,"operational","year",NA,NA,NA
+"289","https://aplans.api.hel.ninja/v1/action/412/","action",412,"Älykkään ja puhtaan (Smart&Clean) liiketoiminnan kasvu","a412","123",NA,NA,NA,NA,NA
+"290","https://aplans.api.hel.ninja/v1/indicator/346/","indicator",346,"Smart&clean-yritysten määrä","i346",NA,"tactical","year",NA,NA,NA
+"291","https://aplans.api.hel.ninja/v1/action/414/","action",414,"Kaupunkilaisten vaikutusmahdollisuudet älykkäiden ja puhtaiden ratkaisujen kehittämisessä","a414","125",NA,NA,NA,NA,NA
+"292","https://aplans.api.hel.ninja/v1/indicator/348/","indicator",348,"Osallistuneiden asukkaiden määrä","i348",NA,"operational","year",NA,NA,NA
+"293","https://aplans.api.hel.ninja/v1/action/417/","action",417,"Älykkään ja puhtaan liiketoiminnan yhteiskehittäminen","a417","128",NA,NA,NA,NA,NA
+"294","https://aplans.api.hel.ninja/v1/indicator/349/","indicator",349,"Innovatiivisten hankintojen määrä","i349",NA,"operational","year",NA,NA,NA
+"295","https://aplans.api.hel.ninja/v1/indicator/350/","indicator",350,"Smart&clean-hankkeiden määrä","i350",NA,"operational","year",NA,NA,NA
+"296","https://aplans.api.hel.ninja/v1/action/418/","action",418,"Kaupungin tytäryhteisöjen hiilineutraaliussuunnitelmat","a418","129",NA,NA,NA,NA,NA
+"297","https://aplans.api.hel.ninja/v1/indicator/347/","indicator",347,"Hiilineutraalisuustavoitteen asettaneiden tytäryhteisöjen osuus","i347",NA,"operational","year",NA,NA,NA
+"298","https://aplans.api.hel.ninja/v1/action/419/","action",419,"Hiilivarastojen ylläpito viheralueilla ja kaupunkiympäristössä","a419","130",NA,NA,NA,NA,NA
+"299","https://aplans.api.hel.ninja/v1/indicator/357/","indicator",357,"Metsäisten alueiden osuus","i357",NA,"operational","year",NA,NA,NA
+"300","https://aplans.api.hel.ninja/v1/action/423/","action",423,"Viherkerroin","a423","134",NA,NA,NA,NA,NA
+"301","https://aplans.api.hel.ninja/v1/indicator/358/","indicator",358,"Kerrosala, jolle on osoitettu viherkerroin","i358",NA,"operational","year",NA,NA,NA
+"302","https://aplans.api.hel.ninja/v1/action/424/","action",424,"Tietoa hiilivarastoista ja -nieluista","a424","135",NA,NA,NA,NA,NA
+"303","https://aplans.api.hel.ninja/v1/indicator/359/","indicator",359,"Hiilinielujen määrä","i359",NA,"operational","year",NA,NA,NA
+"304","https://aplans.api.hel.ninja/v1/action/425/","action",425,"Päästökompensaatiotapojen arviointi","a425","136",NA,NA,NA,NA,NA
+"305","https://aplans.api.hel.ninja/v1/action/426/","action",426,"Sopeutumislinjaukset valmistellaan loppuun ja tuodaan päätöksentekoon","a426","137",NA,NA,NA,NA,NA
+"306","https://aplans.api.hel.ninja/v1/action/432/","action",432,"Yritysfoorumi","a432","143",NA,NA,NA,NA,NA
+"307","https://aplans.api.hel.ninja/v1/indicator/269/","indicator",269,"Toimenpideohjelmaa käsittelevien järjestettyjen tapahtumien määrä","i269",NA,"operational","year",NA,NA,NA
+"308","https://aplans.api.hel.ninja/v1/indicator/268/","indicator",268,"Toimenpideohjelmaa käsitteleviin tapahtumiin osallistuneiden määrä","i268",NA,"tactical","year",NA,NA,NA
+"309","https://aplans.api.hel.ninja/v1/action/433/","action",433,"Avoin päätöksentekokäytäntö","a433","144",NA,NA,NA,NA,NA
+"310","https://aplans.api.hel.ninja/v1/indicator/62/","indicator", 62,"Aika toimenpiteiden edellisestä päivityksestä","i62","average_days_since_last_update","operational","day",6.580000e+01,2020-06-03,day
+"311","https://aplans.api.hel.ninja/v1/indicator/289/","indicator",289,"Päästöpainotettu osuus toimenpideohjelmasta, joka hyvin manageroitu","i289",NA,"tactical","month",NA,NA,NA
+"312","https://aplans.api.hel.ninja/v1/indicator/381/","indicator",381,"Toimenpiteet, joille asetettu tavoitteet","i381",NA,"operational","year",NA,NA,NA
+"313","https://aplans.api.hel.ninja/v1/indicator/380/","indicator",380,"Toimenpiteet, joiden edistymistä seurataan","i380",NA,"operational","year",NA,NA,NA
+"314","https://aplans.api.hel.ninja/v1/indicator/287/","indicator",287,"Kaupungin ympäristötilinpito luokittain","i287",NA,"tactical","year",NA,NA,NA
+"315","https://aplans.api.hel.ninja/v1/indicator/288/","indicator",288,"Kaupungin ympäristötilinpito virastoittain","i288",NA,"tactical","year",NA,NA,NA
+"316","https://aplans.api.hel.ninja/v1/indicator/195/","indicator",195,"Toimenpiteet, joilla on yhteyshenkilö","i195",NA,"operational","day",NA,NA,NA
+"317","https://aplans.api.hel.ninja/v1/indicator/196/","indicator",196,"Ajan tasalla olevien toimenpiteiden osuus","i196","share_of_updated_indicators","operational","day",6.230000e+01,2020-06-03,%
+"318","https://aplans.api.hel.ninja/v1/indicator/63/","indicator", 63,"Osuus HNH2035-mittareista, joille on määritelty kvantitatiivinen tavoite","i63",NA,"operational","year",NA,NA,NA
+"319","https://aplans.api.hel.ninja/v1/indicator/61/","indicator", 61,"Osuus HNH2035-mittareista, joissa on taustalla tietokide","i61",NA,"operational","year",NA,NA,NA
+"320","https://aplans.api.hel.ninja/v1/action/435/","action",435,"Päästövähennysten raportointi","a435","146",NA,NA,NA,NA,NA
+"321","https://aplans.api.hel.ninja/v1/action/436/","action",436,"Toimenpideohjelman arviointi","a436","147",NA,NA,NA,NA,NA
