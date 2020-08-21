@@ -1,0 +1,77 @@
+ID,Obs,GPC ref no.,Scope,Sector,Sektori,Alas
+,1,I,,Stationary energy,Kiinteä energia,
+,2,I.1,,Residential buildings,Asuinrakennukset,2 rakennusten lämmitys .. 5 asuminen
+,3,I.1.1,1,Emissions from fuel combustion within the city boundary,Polttoprosessit kaupungissa,
+,4,I.1.2,2,Emissions from grid-supplied energy consumed within the city boundary,Energiankäyttö verkosta kaupungissa,2 kulutussähkö
+,5,I.1.3,3,Emissions from transmission and distribution losses from grid-supplied energy consumption,Päästöt verkon häviöistä,
+,6,I.2,,Commercial and institutional buildings and facilities,Kaupalliset rakennukset,2 rakennusten lämmitys .. 5 palvelut
+,7,I.2.1,1,Emissions from fuel combustion within the city boundary,Polttoprosessit kaupungissa,
+,8,I.2.2,2,Emissions from grid-supplied energy consumed within the city boundary,Energiankäyttö verkosta kaupungissa,
+,9,I.2.3,3,Emissions from transmission and distribution losses from grid-supplied energy consumption,Päästöt verkon häviöistä,
+,10,I.3,,Manufacturing industries and construction,Valmistusprosessit ja rakentaminen,2 rakennusten lämmitys .. 5 teollisuus
+,11,I.3.1,1,Emissions from fuel combustion within the city boundary,Polttoprosessit kaupungissa,
+,12,I.3.2,2,Emissions from grid-supplied energy consumed within the city boundary,Energiankäyttö verkosta kaupungissa,
+,13,I.3.3,3,Emissions from transmission and distribution losses from grid-supplied energy consumption,Päästöt verkon häviöistä,
+,14,I.4,,Energy industries,Energia-ala,ei löydy koska kulutuspohjainen tarkastelu
+,15,I.4.1,1,Emissions from energy used in power plant auxiliary operations within the city boundary,Energiantuotannon apuprosessit kaupungeissa,
+,16,I.4.2,2,Emissions from grid-supplied energy consumed in power plant auxiliary operations within the city boundary,Energiankäyttö verkon apuprosesseissa kaupungeissa,
+,17,I.4.3,3,Emissions from transmission and distribution losses from grid-supplied energy consumption in power plant auxiliary operations,Verkon häviöt voimalaitosten apuprosesseissa,
+,18,I.4.4,1,Emissions from energy generation supplied to the grid,Häviöt verkon sähkönsyötyössä,
+,19,I.5,,"Agriculture, forestry and fishing activities","Maa- , metsä- ja kalatalous",Puuttuu: 2 maatalous ei ole energiankulutusta vaan päästöjä
+,20,I.5.1,1,Emissions from fuel combustion within the city boundary,Polttoprosessit kaupungissa,
+,21,I.5.2,2,Emissions from grid-supplied energy consumed within the city boundary,Energiankäyttö verkosta kaupungissa,
+,22,I.5.3,3,Emissions from transmission and distribution losses from grid-supplied energy consumption,Päästöt verkon häviöistä,
+,23,I.6,,Non-specified sources,Erittelemättömät energialähteet,
+,24,I.6.1,1,Emissions from fuel combustion within the city boundary,Polttoprosessit kaupungissa,
+,25,I.6.2,2,Emissions from grid-supplied energy consumed within the city boundary,Energiankäyttö verkosta kaupungissa,
+,26,I.6.3,3,Emissions from transmission and distribution losses from grid-supplied energy consumption,Päästöt verkon häviöistä,
+,27,I.7,,"Fugitive emissions from mining, processing, storage, and transportation of coal",Hajapäästöt hiilen tuotannossa,
+,28,I.7.1,1,Emissions from fugitive emissions within the city boundary,Kaupunkien hajapäästöt,
+,29,I.8,,Fugitive emissions from oil and natural gas systems,Hajapäästöt öljystä ja maakaasusta,
+,30,I.8.1,1,Emissions from fugitive emissions within the city boundary,Kaupunkien hajapäästöt,
+,31,II,,Transportation,Liikenne,2 liikenne
+,32,II.1,,On-road transportation,Tieliikenne,3 tieliikenne
+,33,II.1.1,1,Emissions from fuel combustion on-road transportation occurring within the city boundary,Polttoaineen kulutuksen päästöt kaupunkien tieliikenteessä,
+,34,II.1.2,2,Emissions from grid-supplied energy consumed within the city boundary for on-road transportation,Verkkosähkön päästöt kaupunkien tieliikenteessä,
+,35,II.1.3,3,"Emissions from portion of transboundary journeys occurring outside the city boundary, and transmission and distribution losses from grid-supplied energy consumption","Päästöt kaupunginrajan ylittävissä matkoissa, sekä häviöt verkossa",
+,36,II.2,,Railways,Raideliikenne,3 raideliikenne
+,37,II.2.1,1,Emissions from fuel combustion for railway transportation occurring within the city boundary,Päästöt raideliikenteen polttoaineista kaupungeissa,
+,38,II.2.2,2,Emissions from grid-supplied energy consumed within the city boundary for railways,Päästöt verkon energiasta kaupungin raideliikenteessä,
+,39,II.2.3,3,"Emissions from portion of transboundary journeys occurring outside the city boundary, and transmission and distribution losses from grid-supplied energy consumption","Päästöt kaupunginrajan ylittävissä matkoissa, sekä häviöt verkossa",
+,40,II.3,,Waterborne navigation,Vesi(Laiva)liikenne,3 vesiliikenne
+,41,II.3.1,1,Emissions from fuel combustion for waterborne navigation occurring within the city boundary,Vesiliikenteen polttoaineen kulutuksen päästöt kaupungissa,
+,42,II.3.2,2,Emissions from grid-supplied energy consumed within the city boundary for waterborne navigation,Verkkosähkön päästöt kaupunkien vesiliikenteessä,
+,43,II.3.3,3,"Emissions from portion of transboundary journeys occurring outside the city boundary, and transmission and distribution losses from grid-supplied energy consumption","Päästöt kaupunginrajan ylittävissä matkoissa, sekä häviöt verkossa",
+,44,II.4,,Aviation,Lentäminen,puuttuu
+,45,II.4.1,1,Emissions from fuel combustion for aviation occurring within the city boundary,Lentämisen polttoainepäästöt kaupungeissa,
+,46,II.4.2,2,Emissions from grid-supplied energy consumed within the city boundary for aviation,Päästöt verkon energiasta kaupungin lentoliikenteessä,
+,47,II.4.3,3,"Emissions from portion of transboundary journeys occurring outside the city boundary, and transmission and distribution losses from grid-supplied energy consumption","Päästöt kaupunginrajan ylittävissä matkoissa, sekä häviöt verkossa",
+,48,II.5,,Off-road transportation,Maastoliikenne,puuttuu
+,49,II.5.1,1,Emissions from fuel combustion for off-road transportation occurring within the city boundary,Maastoliikenteen polttoainepäästöt kaupungissa,
+,50,II.5.2,2,Emissions from grid-supplied energy consumed within the city boundary for off-road transportation,päästöt verkon energiasta kaupungin maastoliikenteessä,
+,51,III,,Waste,Jätteet,2 jätteiden käsittely
+,52,III.1,,Solid waste disposal,Kiinteän jätteen hävittäminen,4 kaatopaikat
+,53,III.1.1,1,Emissions from solid waste generated within the city boundary and disposed in landfills or open dumps within the city boundary,Kiinteän jätteen päästöt kaupungin omista jätteistä kaatopaikoilla ja avokaatopaikoilla,
+,54,III.1.2,3,Emissions from solid waste generated within the city boundary but disposed in landfills or open dumps outside the city boundary,Päästöt kaupungissa tuotetussa kiinteästä jätteestä joka käsitellään kaupungin ulkopuolella,
+,55,III.1.3,1,Emissions from waste generated outside the city boundary and disposed in landfills or open dumps within the city boundary,Päästöt kaupungin ulkopuolella tuotetusta kiinteästä jätteestä joka käsitellään kaupungin sisällä,
+,56,III.2,,Biological treatment of waste,Biologinen jätteenkäsittely,"4 kompostointi, mädätys"
+,57,III.2.1,1,Emissions from solid waste generated within the city boundary that is treated biologically within the city boundary,Päästöt kiinteästä jätteestä joka tuotetaan ja käsitellään biologisesti kaupungissa,
+,58,III.2.2,3,Emissions from solid waste generated within the city boundary but treated biologically outside of the city boundary,Päästöt kiinteästä jätteestä joka tuotetaan mutta ei käsitellä biologisesti kaupungissa,
+,59,III.2.3,1,Emissions from waste generated outside the city boundary but treated biologically within the city boundary,Päästöt jätteestä jota ei tuoteta mutta käsitellään biologisesti kaupungissa,
+,60,III.3,,Incineration and open burning,Jätteenpoltto,puuttuu
+,61,III.3.1,1,Emissions from solid waste generated and treated within the city boundary,Päästöt kiinteästä jätteestä joka tuotetaan ja käsitellään kaupungissa,
+,62,III.3.2,3,Emissions from solid waste generated within the city boundary but treated outside of the city boundary,Päästöt kiinteästä jätteestä joka tuotetaan mutta ei käsitellä kaupungissa,
+,63,III.3.3,1,Emissions from waste generated outside the city boundary but treated within the city boundary ,Päästöt jätteestä jota ei tuoteta mutta käsitellään biologisesti kaupungissa,
+,64,III.4,,Wastewater treatment and discharge,Jäteveden käsittely,4 jätevesien puhdistus
+,65,III.4.1,1,Emissions from wastewater generated and treated within the city boundary,Päästöt jätevedestä joka tuotetaan ja käsitellään kaupungissa,
+,66,III.4.2,3,Emissions from wastewater generated within the city boundary but treated outside of the city boundary,"Päästöt jätevedestä joka tuotetaan, mutta ei käsitellä kaupungissa",
+,67,III.4.3,1,Emissions from wastewater generated outside the city boundary but treated within the city boundary,"Päästöt jätevedestä jota ei tuoteta, mutta joka käsitellään kaupungissa",
+,68,IV,,Industrial processes and product uses (iPPu),Teolliset prosessit ja tuotteiden käyttö,2 teollisuus ja työkoneet?
+,69,IV.1,1,Emissions from industrial processes occurring within the city boundary,Päästöt teollisuusprosesseista kaupungin alueella,
+,70,IV.2,1,Emissions from product use occurring within the city boundary,Päästöt tuotteiden käytöstä kaupungin alueella,
+,71,V,,"Agriculture, forestry and other land use (AFOLU)",Maa- ja metsätalous ja maankäyttö,2 maatalous (metsät puuttuvat)
+,72,V.1,1,Emissions from livestock within the city boundary,Päästöt karjasta kaupungin alueella,
+,73,V.2,1,Emissions from land within the city boundary,Päästöt maaperästä kaupungin alueella,
+,74,V.3,1,Emissions from aggregate sources and non-CO2 emission sources on land within the city boundary,Päästöt yhteislähteistä ja CO2:ta sisältämättömät päästölähteet maaperässä kaupungin alueella,
+,75,VI,,Other Scope 3,Muu scope 3,
+,76,VI.1,3,Other Scope 3,Muut Scope 3:n päästöt,

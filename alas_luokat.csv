@@ -1,0 +1,78 @@
+taso_1,taso_2,taso_3,taso_4,taso_5,id
+Energia,Kulutussähkö,Kulutussähkö,Kulutussähkö,Asuminen,1
+Energia,Kulutussähkö,Kulutussähkö,Kulutussähkö,Palvelut,2
+Energia,Kulutussähkö,Kulutussähkö,Kulutussähkö,Teollisuus,3
+Energia,Kulutussähkö,Kulutussähkö,Kulutussähkö,Maatalous,4
+Energia,Liikenne,Raideliikenne,Henkilöliikenne,Sähkö,5
+Energia,Liikenne,Raideliikenne,Henkilöliikenne,Diesel,6
+Energia,Liikenne,Raideliikenne,Lähiliikenne,Lähijunat,7
+Energia,Liikenne,Raideliikenne,Lähiliikenne,Metrot ja raitiovaunut,8
+Energia,Liikenne,Raideliikenne,Tavaraliikenne,Sähkö,9
+Energia,Liikenne,Raideliikenne,Tavaraliikenne,Diesel,10
+Energia,Liikenne,Tieliikenne,Kadut,Henkilöautot,11
+Energia,Liikenne,Tieliikenne,Kadut,Kuorma-autot,12
+Energia,Liikenne,Tieliikenne,Kadut,Linja-autot,13
+Energia,Liikenne,Tieliikenne,Kadut,Pakettiautot,14
+Energia,Liikenne,Tieliikenne,Läpiajoliikenne,Läpiajoliikenne,15
+Energia,Liikenne,Tieliikenne,Moottoripyörät ja mopot,Moottoripyörät,16
+Energia,Liikenne,Tieliikenne,Moottoripyörät ja mopot,Mopot,17
+Energia,Liikenne,Tieliikenne,Moottoripyörät ja mopot,Mopoautot,18
+Energia,Liikenne,Tieliikenne,Tiet,Henkilöautot,19
+Energia,Liikenne,Tieliikenne,Tiet,Kuorma-autot,20
+Energia,Liikenne,Tieliikenne,Tiet,Linja-autot,21
+Energia,Liikenne,Tieliikenne,Tiet,Pakettiautot,22
+Energia,Liikenne,Vesiliikenne,Huviveneet,Huviveneet,23
+Energia,Liikenne,Vesiliikenne,Laivat,Matkustajaliikenne,24
+Energia,Liikenne,Vesiliikenne,Laivat,Tavaraliikenne,25
+Energia,Liikenne,Vesiliikenne,Työveneet,Kalastusalukset,26
+Energia,Liikenne,Vesiliikenne,Työveneet,Lautat ja lossit,27
+Energia,Liikenne,Vesiliikenne,Työveneet,Työveneet ja alukset,28
+Energia,Rakennusten lämmitys,Kaukolämpö,Kaukolämpö,Asuminen,29
+Energia,Rakennusten lämmitys,Kaukolämpö,Kaukolämpö,Palvelut,30
+Energia,Rakennusten lämmitys,Kaukolämpö,Kaukolämpö,Teollisuus,31
+Energia,Rakennusten lämmitys,Kaukolämpö,Kaukolämpö,Maatalous,32
+Energia,Rakennusten lämmitys,Muu lämmitys,Muu lämmitys,Asuminen,33
+Energia,Rakennusten lämmitys,Muu lämmitys,Muu lämmitys,Palvelut,34
+Energia,Rakennusten lämmitys,Muu lämmitys,Muu lämmitys,Teollisuus,35
+Energia,Rakennusten lämmitys,Muu lämmitys,Muu lämmitys,Maatalous,36
+Energia,Rakennusten lämmitys,Muu lämmitys,Puulämmitys,Asuminen,37
+Energia,Rakennusten lämmitys,Muu lämmitys,Puulämmitys,Palvelut,38
+Energia,Rakennusten lämmitys,Muu lämmitys,Puulämmitys,Teollisuus,39
+Energia,Rakennusten lämmitys,Muu lämmitys,Puulämmitys,Maatalous,40
+Energia,Rakennusten lämmitys,Öljylämmitys,Öljylämmitys,Asuminen,41
+Energia,Rakennusten lämmitys,Öljylämmitys,Öljylämmitys,Palvelut,42
+Energia,Rakennusten lämmitys,Öljylämmitys,Öljylämmitys,Teollisuus,43
+Energia,Rakennusten lämmitys,Öljylämmitys,Öljylämmitys,Maatalous,44
+Energia,Rakennusten lämmitys,Sähkölämmitys,Maalämpö,Asuminen,45
+Energia,Rakennusten lämmitys,Sähkölämmitys,Maalämpö,Palvelut,46
+Energia,Rakennusten lämmitys,Sähkölämmitys,Maalämpö,Teollisuus,47
+Energia,Rakennusten lämmitys,Sähkölämmitys,Maalämpö,Maatalous,48
+Energia,Rakennusten lämmitys,Sähkölämmitys,Sähkölämmitys,Asuminen,49
+Energia,Rakennusten lämmitys,Sähkölämmitys,Sähkölämmitys,Palvelut,50
+Energia,Rakennusten lämmitys,Sähkölämmitys,Sähkölämmitys,Teollisuus,51
+Energia,Rakennusten lämmitys,Sähkölämmitys,Sähkölämmitys,Maatalous,52
+Energia,Teollisuus ja työkoneet,Teollisuus,Teollisuus,Teollisuuden polttoaineet,53
+Energia,Teollisuus ja työkoneet,Työkoneet,Työkoneet,Rakennustyökoneet,54
+Energia,Teollisuus ja työkoneet,Työkoneet,Työkoneet,Maa- ja metsätalouskoneet,55
+Energia,Teollisuus ja työkoneet,Työkoneet,Työkoneet,Kaivos- ja teollisuustyökoneet,56
+Energia,Teollisuus ja työkoneet,Työkoneet,Työkoneet,Muut työkoneet,57
+Energia,Teollisuus ja työkoneet,Työkoneet,Työkoneet,Tietyökoneet,58
+Jätteiden käsittely,Jätteiden käsittely,Jätteiden käsittely,Jätevesien puhdistus,Teollisuus,59
+Jätteiden käsittely,Jätteiden käsittely,Jätteiden käsittely,Jätevesien puhdistus,Yhdyskuntajäte,60
+Jätteiden käsittely,Jätteiden käsittely,Jätteiden käsittely,Kaatopaikat,Teollisuus,61
+Jätteiden käsittely,Jätteiden käsittely,Jätteiden käsittely,Kaatopaikat,Yhdyskuntajäte,62
+Jätteiden käsittely,Jätteiden käsittely,Jätteiden käsittely,Kompostointi,Teollisuus,63
+Jätteiden käsittely,Jätteiden käsittely,Jätteiden käsittely,Kompostointi,Yhdyskuntajäte,64
+Jätteiden käsittely,Jätteiden käsittely,Jätteiden käsittely,Mädätys,Teollisuus,65
+Jätteiden käsittely,Jätteiden käsittely,Jätteiden käsittely,Mädätys,Yhdyskuntajäte,66
+Kompensaatiot,Kompensaatiot,Tuulivoima,Tuulivoima,Tuulivoima,67
+Maatalous,Maatalous,Maatalous,Kotieläimet,Eläinten ruoansulatus,68
+Maatalous,Maatalous,Maatalous,Kotieläimet,Lannankäsittely,69
+Maatalous,Maatalous,Maatalous,Peltoviljely,Epäorgaaniset lannoitteet,70
+Maatalous,Maatalous,Maatalous,Peltoviljely,Orgaaniset lannoitteet,71
+Maatalous,Maatalous,Maatalous,Peltoviljely,Maaperä,72
+Maatalous,Maatalous,Maatalous,Peltoviljely,Muut viljelysmaiden päästöt,73
+Teollisuusprosessit ja tuotteiden käyttö,F-kaasut,F-kaasut,Ajoneuvojen ilmastointilaitteet,Ajoneuvojen ilmastointilaitteet,74
+Teollisuusprosessit ja tuotteiden käyttö,F-kaasut,F-kaasut,Kaupan ja ammattikeittiöiden kylmälaitteet,Kaupan ja ammattikeittiöiden kylmälaitteet,75
+Teollisuusprosessit ja tuotteiden käyttö,F-kaasut,F-kaasut,Muut F-kaasujen lähteet,Muut F-kaasujen lähteet,76
+Teollisuusprosessit ja tuotteiden käyttö,F-kaasut,F-kaasut,Rakennusten ilmastointilaitteet,Rakennusten ilmastointilaitteet,77
