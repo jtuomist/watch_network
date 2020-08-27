@@ -41,21 +41,6 @@ sähkö,polttoaine,instanssina,,,,,,,,,,,
 etanoli,polttoaine,instanssina,,,,,,,,,,,
 hybridi,polttoaine,instanssina,,,,,,,,,,"Hybridiautoissa käytetään polttoainetta hybridi, johon määritellään sopiva suhde sähköä ja bensiiniä.",
 ,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
 kaukolämpö,päästösektori kulutusperusteinen,alajoukko,,,,,,,,,,,
 sähkölämmitys,päästösektori kulutusperusteinen,alajoukko,,,,,,,,,,,
 erillislämmitys,päästösektori kulutusperusteinen,alajoukko,,,,,,,,,,,
@@ -179,38 +164,53 @@ Joukkoliikenteen kasvihuonekaasupäästöt,päästösektori tuotantoperusteinen,
 Jätteidenkäsittelyn kasvihuonekaasupäästöt ,päästösektori tuotantoperusteinen,alajoukko,,III,,,,,TRUE,,,,
 Maatalouden kasvihuonekaasupäästöt ,päästösektori tuotantoperusteinen,alajoukko,,"I.5, V",,,,,TRUE,,,,
 ,,,,,,,,,,,,,
-Total GHG emissions of the municipality,,,graph1,objective,,,,,,,"fuel, source",,kt CO2e /a
-GHG emissions from heating of stationary sources,Total GHG emissions of the municipality,part of,graph2,variable,,,,,,,"building, heating, fuel, source",,kt CO2e /a
-GHG emissions from consumer electricity,Total GHG emissions of the municipality,part of,graph3,variable,,,,,,,"building, source",,kt CO2e /a
-GHG emissions from transportation,Total GHG emissions of the municipality,part of,graph4,variable,,,,,,,"mode0, fuel, source","Mode0 is the main transport sector (road, rail, aviation), mode is the mode detailed (walking, cycling, private car, bus)",kt CO2e /a
-GHG emissions from waste,Total GHG emissions of the municipality,part of,graph5,variable,,,,,,,"treatment, emission, source",,kt CO2e /a
-GHG emissions from IPPU,Total GHG emissions of the municipality,part of,graph6,variable,,,,,,,"emission, source",,kt CO2e /a
-GHG emissions from AFOLU,Total GHG emissions of the municipality,part of,graph7,variable,,,,,,,"emission, source",,kt CO2e /a
-GHG emissions from other scope 3,Total GHG emissions of the municipality,part of,graph8,variable,,,,,,,"emission, source",,kt CO2e /a
-Energy use from heating of buildings,GHG emissions from heating of stationary sources,increases,graph9,variable,,,,,,,"building, heating, source",,MWh/a 
-Emission factors of heating,GHG emissions from heating of stationary sources,increases,graph10,variable,,,,,,,"heating, emission, source",,g/MJ
-Floor area of buildings,Energy use from heating of buildings,increases,graph11,variable,,,,,,,"building, heating, energyclass",,m²
-Energy efficiency of buildings,Energy use from heating of buildings,increases,graph12,variable,,,,,,,"building, energyclass",,kWh/m²/a
-Emission factor of electricity,GHG emissions from consumer electricity,increases,graph13,variable,,,,,,,,,g/kWh
-Floor area of buildings,GHG emissions from consumer electricity,increases,graph14,variable,,,,,,,,,m²
-Specific electricity consumption,GHG emissions from consumer electricity,increases,graph15,variable,,,,,,,building,,kWh/m²/a
-Public lighting,GHG emissions from consumer electricity,increases,graph16,variable,,,,,,,,,MWh/a 
-Transport activity of people,GHG emissions from transportation,increases,graph17,variable,,,,,,,,,trips/d
-Modal share of transport,GHG emissions from transportation,increases,graph18,variable,,,,,,,mode,,%
-Energy efficiency of transport modes,GHG emissions from transportation,increases,graph19,variable,,,,,,,"mode, fuel",,g/person-km
-Emission factors of transport modes,GHG emissions from transportation,increases,graph20,variable,,,,,,,"mode, fuel, emission, source",,g/MJ
-Amount of waste,GHG emissions from waste,increases,graph21,variable,,,,,,,treatment,,kt
-Emission factors of waste treatment,GHG emissions from waste,increases,graph22,variable,,,,,,,"treatment, emission, source",,g/ton
-Number of farm animals,GHG emissions from AFOLU,increases,graph23,variable,,,,,,,species,,#
-Land area,GHG emissions from AFOLU,increases,graph24,variable,,,,,,,landuse,,ha
-Emission factors of AFOLU,GHG emissions from AFOLU,increases,graph25,variable,,,,,,,"species, landuse, emission, source",,"g/#/a, g/ha/a"
-Global warming potential,GHG emissions from heating of stationary sources,increases,graph26,variable,,,,,,,emission,parent to all GHG emission indicators,dimensionless
-Territorial GHG emissions from energy production,,,graph27,variable,,,,,,,"source, fuel",,kt CO2e /a
-Territorial energy production,Territorial GHG emissions from energy production,increases,graph28,objective,,,,,,,"product, fuel",,MWh/a 
-Municipal purchases of green electricity,Territorial energy production,part of,graph29,variable,,,,,,,product,,MWh/a 
-Green electricity production,Territorial energy production,part of,graph30,variable,,,,,,,"product, fuel",,MWh/a 
-CHP production,Territorial energy production,part of,graph31,variable,,,,,,,"product, fuel",,MWh/a 
-Other district heat production,Territorial energy production,part of,graph32,variable,,,,,,,"product, fuel",,MWh/a 
+Total GHG emissions from the municipality,,,graph1,,objective,,,,,,"fuel, source",,kt CO2e /a
+GHG emissions from heating of stationary sources,Total GHG emissions from the municipality,part of,graph2,"I.1.1, I.1.2, I.1.3, I.2.1, I.2.2, I.2.3, I.3.1, I.3.2, I.3.3, I.4.1, I.4.2, I.4.3",indicator,,,,,,"building, heating, fuel, source",,kt CO2e /a
+GHG emissions from consumer electricity,Total GHG emissions from the municipality,part of,graph3,"I.1.1, I.1.2, I.1.3, I.2.1, I.2.2, I.2.3, I.3.1, I.3.2, I.3.3, I.4.1, I.4.2, I.4.3",indicator,,,,,,"building, source",,kt CO2e /a
+GHG emissions from transportation,Total GHG emissions from the municipality,part of,graph4,"II.1.1, II.1.2, II.1.3, II.2.1, II.2.2, II.2.3, II.3.1, II.3.2, II.3.3, II.4.1, II.4.2, II.4.3, II.5.1, II.5.2",indicator,,,,,,"mode0, fuel, source","Mode0 is the main transport sector (road, rail, aviation), mode is the mode detailed (walking, cycling, private car, bus)",kt CO2e /a
+GHG emissions from waste,Total GHG emissions from the municipality,part of,graph5,"III.1.1, III.1.2, III.1.3, III.2.1, III.2.2, III.2.3, III.3.1, III.3.2, III.3.3, III.4.1, III.4.2, III.4.3",indicator,,,,,,"treatment, source",,kt CO2e /a
+GHG emissions from IPPU,Total GHG emissions from the municipality,part of,graph6,"IV.1, IV.2",indicator,,,,,,source,,kt CO2e /a
+GHG emissions from AFOLU,Total GHG emissions from the municipality,part of,graph7,"V.1, V.2, V.3",indicator,,,,,,source,,kt CO2e /a
+GHG emissions from other scope 3,Total GHG emissions from the municipality,part of,graph8,VI.1,indicator,,,,,,source,,kt CO2e /a
+Emissions from heating of stationary sources,GHG emissions from heating of stationary sources,increases,graph9,"I.1.1, I.1.2, I.1.3, I.2.1, I.2.2, I.2.3, I.3.1, I.3.2, I.3.3, I.4.1, I.4.2, I.4.3",variable,,,,,,"building, heating, fuel, source, gas",,kt CO2e /a
+Emissions from consumer electricity,GHG emissions from consumer electricity,increases,graph10,"I.1.1, I.1.2, I.1.3, I.2.1, I.2.2, I.2.3, I.3.1, I.3.2, I.3.3, I.4.1, I.4.2, I.4.3",variable,,,,,,"building, source, gas",,kt CO2e /a
+Emissions from transportation,GHG emissions from transportation,increases,graph11,"II.1.1, II.1.2, II.1.3, II.2.1, II.2.2, II.2.3, II.3.1, II.3.2, II.3.3, II.4.1, II.4.2, II.4.3, II.5.1, II.5.2",variable,,,,,,"mode0, fuel, source, gas","Mode0 is the main transport sector (road, rail, aviation), mode is the mode detailed (walking, cycling, private car, bus)",kt CO2e /a
+Emissions from waste,GHG emissions from waste,increases,graph12,"III.1.1, III.1.2, III.1.3, III.2.1, III.2.2, III.2.3, III.3.1, III.3.2, III.3.3, III.4.1, III.4.2, III.4.3",variable,,,,,,"treatment, source, gas",,kt CO2e /a
+Emissions from IPPU,GHG emissions from IPPU,increases,graph13,"IV.1, IV.2",variable,,,,,,"source, gas",,kt CO2e /a
+Emissions from AFOLU,GHG emissions from AFOLU,increases,graph14,"V.1, V.2, V.3",variable,,,,,,"source, gas",,kt CO2e /a
+Energy use from heating of buildings,Emissions from heating of stationary sources,increases,graph15,,indicator,,,,,,"building, heating, source",,MWh/a 
+Emission factors of energy,Emissions from heating of stationary sources,increases,graph16,,variable,,,,,,"heating, gas, source",,g/MJ
+Heat loss from the grid,Emissions from heating of stationary sources,increases,graph17,,variable,,,,,,heating,,%
+Floor area of buildings,Energy use from heating of buildings,increases,graph18,,variable,,,,,,"building, heating, energyclass",,m²
+Energy efficiency of buildings,Energy use from heating of buildings,increases,graph19,,indicator,,,,,,"building, energyclass",,kWh/m²/a
+Energy use from consumer electricity,Emissions from consumer electricity,increases,graph20,,indicator,,,,,,,,
+Electricity loss from the grid,Energy use from consumer electricity,increases,graph21,,variable,,,,,,,,%
+Floor area of buildings,Energy use from consumer electricity,increases,graph22,,variable,,,,,,,,m²
+Emission factors of energy,Emissions from consumer electricity,increases,graph23,,variable,,,,,,,,
+Specific electricity consumption,Energy use from consumer electricity,increases,graph24,,variable,,,,,,building,,kWh/m²/a
+Public lighting,Energy use from consumer electricity,part of,graph25,,variable,,,,,,,,MWh/a 
+Transport activity of people,Energy use from transportation,increases,graph26,,variable,,,,,,transboundary,,trips/d
+Modal share of transport,Energy use from transportation,increases,graph27,,indicator,,,,,,"mode, transboundary",,%
+Energy efficiency of transport modes,Energy use from transportation,increases,graph28,,variable,,,,,,"mode, fuel",,g/person-km
+Energy use from transportation,Emissions from transportation,increases,graph29,,indicator,,,,,,,,
+Emission factors of transport modes,Emissions from transportation,increases,graph30,,variable,,,,,,"mode, fuel, gas",,g/MJ
+Amount of waste,Emissions from waste,increases,graph31,,variable,,,,,,"treatment, transboundary",,kt
+Emission factors of waste treatment,Emissions from waste,increases,graph32,,variable,,,,,,"treatment, gas",,g/ton
+Number of farm animals,Emissions from AFOLU,increases,graph33,,variable,,,,,,species,,#
+Land area,Emissions from AFOLU,increases,graph34,,variable,,,,,,landuse,,ha
+Emission factors of AFOLU,Emissions from AFOLU,increases,graph35,,variable,,,,,,"species, landuse, gas, source",,"g/#/a, g/ha/a"
+Global warming potential,GHG emissions from heating of stationary sources,increases,graph36,,variable,,,,,,emission,parent to all GHG emission indicators,dimensionless
+Global warming potential,GHG emissions from consumer electricity,increases,hide,,variable,,,,,,,,
+Global warming potential,GHG emissions from transportation,increases,hide,,variable,,,,,,,,
+Global warming potential,GHG emissions from waste,increases,hide,,variable,,,,,,,,
+Global warming potential,GHG emissions from IPPU,increases,hide,,variable,,,,,,,,
+Global warming potential,GHG emissions from AFOLU,increases,hide,,variable,,,,,,,,
+Territorial GHG emissions from energy production,,,graph42,,variable,,,,,,"source, fuel",,kt CO2e /a
+Territorial energy production,Territorial GHG emissions from energy production,increases,graph43,,objective,,,,,,"product, fuel",,MWh/a 
+Municipal purchases of green electricity,Territorial energy production,part of,graph44,,variable,,,,,,product,,MWh/a 
+Green electricity production,Territorial energy production,part of,graph45,,variable,,,,,,"product, fuel",,MWh/a 
+CHP production,Territorial energy production,part of,graph46,,variable,,,,,,"product, fuel",,MWh/a 
+Other district heat production,Territorial energy production,part of,graph47,,variable,,,,,,"product, fuel",,MWh/a 
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 GPC protocol,,,,,,,,,,,,,
