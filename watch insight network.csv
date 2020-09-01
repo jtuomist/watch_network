@@ -212,7 +212,7 @@ Green electricity production,Territorial energy production,part of,graph45,,vari
 CHP production,Territorial energy production,part of,graph46,,variable,,,,,,"product, fuel",,MWh/a 
 Other district heat production,Territorial energy production,part of,graph47,,variable,,,,,,"product, fuel",,MWh/a 
 ,,,,,,,,,,,,,
-,,,,,,,,,,,,,
+HUOM! Uudempi GPC-luokittelun kuvaus löytyy ghg-notebooks/gpc_classification.csv,,,,,,,,,,,,,
 GPC protocol,,,,,,,,,,,,,
 Stationary energy,päästösektori,alajoukko,gpcI,I,,,,,,,,kiinteät päästölähteet,
 Residential buildings,kiinteät päästölähteet,alajoukko,gpcI.1,I.1,,,"Rakennusten lämmitys-Asuminen, Kulutussähkö-Asuminen",Residential buildings,,,,Asuinrakennukset,
