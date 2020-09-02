@@ -55,6 +55,7 @@ df$Sub.category <- tolower(df$Sub.category)
 View(aggregate(df[df$Climate_relevant==1,sector], by=df[c("Category")], FUN=function(x) sum(x, na.rm=TRUE)))
 
 out <- melt(df[df$Climate_relevant==1, c("Indicator",sector)],id.vars="Indicator", variable.name = "Sector")
-out <- out[!is.na(out$value),c("Indicator","Sector")]
+out <- out[!is.na(out$value),c("Sector","Indicator")]
+rownames(out) <- 1:nrow(out)
 
 write.csv(out, "climate_relevant_indicators_from_7_standards.csv")
