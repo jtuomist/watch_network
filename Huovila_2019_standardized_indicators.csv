@@ -1,0 +1,449 @@
+Standard,Category,Sub-category,Indicator,Natural environment,Built environment,Water and waste,Transport,Energy,Economy,"Education, culture, innovation & science","Health, well-being & Safety",Governance and citizen engagement,ICT,Sum_E:N,Input,Process,Output,Outcome,Impact,Sum_P:T,Sustaina-bility,Smartness,People,Planet,Prosperity,Hard,Soft,Sum_X:AB,Climate_relevant
+ISO 37120:2018,Economy,,City's unemployment rate,,,,,,2,,,,,2,,,,,1,1,3,0,1,,2,,,3,
+,,,Assessed value of commercial and industrial properties as a percentage of total assessed value of all properties ,,,,,,2,,,,,2,,,1,,,1,3,0,,,3,,,3,
+,,,Percentage of persons in full-time employment  ,,,,,,2,,,,,2,,,,,1,1,3,0,1,,2,,,3,
+,,,Youth unemployment rate ,,,,,,2,,,,,2,,,,,1,1,3,0,1,,2,,,3,
+,,,Number of businesses per 100 000 population,,,,,,2,,,,,2,,,1,,,1,2,1,,,2,,1,3,
+,,,Number of new patents per 100 000 population per year ,,,,,,,2,,,,2,,,1,,,1,1,2,,,1,,2,3,
+,,,Annual number of visitor stays (overnight) per 100 000 population,,,,,,2,,,,,,,,1,,,,0,3,,,,,3,,
+,,,Commercial air connectivity (number of non-stop commercial air destinations),,,,2,,,,,,,2,,,1,,,1,1,2,,,1,,2,3,
+,Education,,Percentage of female school-aged population enrolled in school ,,,,,,,2,,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Percentage of students completing primary education: survival rate,,,,,,,2,,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Percentage of students completing secondary education: survival rate,,,,,,,2,,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Primary education student/teacher ratio,,,,,,,2,,,,2,,,,1,,1,3,0,3,,,,,3,
+,,,Percentage of school-aged population enrolled in school ,,,,,,,2,,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Number of higher education degrees per 100 000 population ,,,,,,,2,,,,2,,,,,1,1,1,2,,,1,,2,3,
+,Energy,,Total end-use energy consumption per capita (GJ/year),,,,,2,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,Percentage of total end-use energy derived from renewable sources,,,,,2,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,Percentage of city population with authorized electrical service (residential)   ,,,,,1,,,1,,,2,,,,1,,1,3,0,3,,,,,3,1
+,,,Number of gas distribution service connections per 100 000 population (residential),,,,,2,,,,,,,,,1,,,,3,0,,3,,,,,1
+,,,Final energy consumption of public buildings per year (GJ/m2),,1,,,1,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,Electricity consumption of public street lighting per kilometre of lighted street (kWh/year),,,,,2,,,,,,,,,,,1,1,3,0,,3,,,,3,1
+,,,Average annual hours of electrical service interruptions per household,,,,,2,,,,,,2,,,,,1,1,2,1,1,,1,1,,3,1
+,Environment and climate change,,Fine Particulate Matter (PM2.5) concentration ,1,,,,,,,1,,,2,,,,,1,1,3,0,2,1,,,,3,1
+,,,Particulate Matter (PM10) concentration ,1,,,,,,,1,,,2,,,,,1,1,3,0,2,1,,,,3,1
+,,,Greenhouse gas emissions measured in tonnes per capita ,2,,,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,Percentage of areas designated for natural protection,2,,,,,,,,,,2,,,1,,,,3,0,,3,,,,3,1
+,,,NO2  (nitrogen dioxide) concentration ,1,,,,,,,1,,,2,,,,,1,1,3,0,2,1,,,,3,1
+,,,SO2 (sulphur dioxide) concentration ,1,,,,,,,1,,,2,,,,,1,1,3,0,1,2,,,,3,1
+,,,O3 (ozone) concentration ,1,,,,,,,1,,,2,,,,,1,1,3,0,2,1,,,,3,1
+,,,Noise pollution,,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,1
+,,,Percentage change in number of native species ,2,,,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,Finance,,Debt service ratio (debt service expenditure as a percentage of a city’s own-source revenue) ,,,,,,2,,,,,2,,,1,,,1,3,0,,,3,,,3,
+,,,Capital spending as a percentage of total expenditures ,,,,,,2,,,,,2,,,1,,,1,3,0,,,3,,,3,
+,,,Own-source revenue as a percentage of total revenues ,,,,,,2,,,,,2,,,1,,,1,3,0,,,3,,,3,
+,,,Tax collected as percentage of tax billed ,,,,,,2,,,,,2,,,1,,,1,3,0,,,3,,,3,
+,Governance,,Women as a percentage of total elected to city-level office ,,,,,,,,,2,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Number of convictions for corruption and/or bribery by city officials per 100 000 population ,,,,,,1,,,1,,2,,,1,,,1,3,0,1,,2,,,3,
+,,,Number of registered voters as a percentage of the voting age population,,,,,,,,,2,,2,,,,1,,1,1,2,1,,,,2,3,
+,,,Voter participation in last municipal election (as a percentage of registered voters),,,,,,,,,2,,2,,,,,1,1,1,2,1,,,,2,3,
+,Health,,Average life expectancy ,,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,1
+,,,Number of in-patient hospital beds per 100 000 population ,,,,,,,,2,,,2,,,1,,,1,3,0,3,,,,,3,
+,,,Number of physicians per 100 000 population,,,,,,,,2,,,2,,,1,,,1,3,0,3,,,,,3,
+,,,Under age five mortality per 1 000 live births ,,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Number of nursing and midwifery personnel per 100 000 population,,,,,,,,2,,,2,,,1,,,1,3,0,3,,,,,3,
+,,,Suicide rate per 100 000 population,,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,
+,Housing,,Percentage of city population living in inadequate housing,,1,,,,,,1,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Percentage of population living in affordable housing,,1,,,,1,,,,,2,,,,,1,1,3,0,1,,2,,,3,
+,,,Number of homeless per 100 000 population ,,,,,,1,,1,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Percentage of households that exist without registered legal titles ,,,,,,1,,1,,,2,,,,,1,1,3,0,3,,,,,3,
+,Population and social conditions,,Percentage of city population living below the international poverty line,,,,,,2,,,,,,,,,,1,1,3,0,1,,2,,,3,
+,,,Percentage of city population living below the national poverty line,,,,,,2,,,,,,,,,,1,1,3,0,1,,2,,,,
+,,,Gini coefficient of inequality,,,,,,2,,,,,,,,,,1,1,3,0,1,,2,,,,
+,Recreation,,Square metres of public indoor recreation space per capita ,,,,,,,,2,,,2,,,1,,,1,2,1,2,,,,1,3,
+,,,Square metres of public outdoor recreation space per capita ,1,,,,,,,1,,,2,,,1,,,1,2,1,2,,,,1,3,
+,Safety,,Number of firefighters per 100 000 population ,,,,,,,,2,,,2,1,,,,,1,3,0,3,,,,,3,
+,,,Number of fire related deaths per 100 000 population ,,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Number of natural disaster-related deaths per 100 000 population  ,1,,,,,,,1,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Number of police officers per 100 000 population ,,,,,,,,2,,,2,1,,,,,1,3,0,3,,,,,3,
+,,,Number of homicides per 100 000 population ,,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Number of volunteer and part-time firefighters per 100 000 population,,,,,,,,2,,,2,1,,,,,1,3,0,3,,,,,3,
+,,,Response time for emergency response services from initial call ,,,,,,,,2,,,2,,,1,,,1,1,2,1,,,2,,3,
+,,,Crimes against property per 100 000  ,,,,,,,,2,,,2,,,,,1,1,3,0,2,,1,,,3,
+,,,Number of deaths caused by industrial accidents per 100 000 population,,,,,,,,2,,,2,,,,,1,,3,0,3,,,,,,
+,,,Number of violent crimes against women per 100 000 population,,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,
+,Solid waste,,Percentage of city population with regular solid waste collection (residential) ,,,2,,,,,,,,2,,,,1,,1,3,0,,3,,,,3,1
+,,,Total collected municipal solid waste per capita,,,2,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,Percentage of the city’s solid waste that is recycled ,,,2,,,,,,,,2,,,,1,,1,3,0,,3,,,,3,1
+,,,Percentage of the city’s solid waste that is disposed of in a sanitary landfill,,,2,,,,,,,,2,,,,1,,1,3,0,,3,,,,3,1
+,,,Percentage of the city's solid waste that is treated in energy-from-waste plants,,,1,,1,,,,,,2,,,,1,,1,2,1,,2,,1,,3,1
+,,,Percentage of the city's solid waste that is biologically treated and used as compost or biogas,,,2,,,,,,,,,,,,1,,1,3,0,,3,,,,3,1
+,,,Percentage of the city’s solid waste that is disposed of in an open dump,,,2,,,,,,,,2,,,,1,,1,3,0,,3,,,,3,1
+,,,Percentage of the city’s solid waste that is disposed of by other means,,,2,,,,,,,,2,,,,1,,1,3,0,,3,,,,3,1
+,,,Hazardous waste generation per capita (tonnes),,,2,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,
+,,,Percentage of city’s hazardous waste that is recycled ,,,2,,,,,,,,2,,,,1,,1,3,0,,3,,,,3,
+,Sport and culture,,Number of cultural institutions and sporting facilities per 100 000 population,,,,,,,1,1,,,,1,,,,,,1,2,1,,,,2,,
+,,,Percentage of municipal budget allocated to cultural and sporting facilities,,,,,,1,,1,,,,1,,,,,,1,2,1,,,,2,,
+,,,"Annual number of cultural events per 100 000 population (e.g. exhibitions, festivals, concerts)",,,,,,,2,,,,,,,1,,,,1,2,1,,,,2,,
+,Telecommunication,,Number of internet connections per 100  000 population,,,,,,,,,,2,2,,,1,,,1,1,2,,,1,2,,3,
+,,,Number of mobile phone connections per 100 000 population ,,,,,,,,,,2,2,,,1,,,1,1,2,,,1,2,,3,
+,Transportation,,Kilometres of public transport system per 100 000 population,,,,2,,,,,,,2,,,1,,,1,3,0,1,2,,,,3,1
+,,,Annual number of public transport trips per capita,,,,2,,,,,,,2,,,,,1,1,3,0,1,2,,,,3,1
+,,,Percentage of commuters using a travel mode to work other than a personal vehicle,,,,2,,,,,,,2,,,,1,,1,3,0,1,2,,,,3,1
+,,,Kilometres of bicycle paths and lanes per 100 000 population,,,,2,,,,,,,2,,,1,,,1,3,0,1,2,,,,3,1
+,,,Transportation deaths per 100 000 population,,,,1,,,,1,,,2,,,,,1,1,3,0,3,,,,,3,1
+,,,"Percentage of population living within 0,5 km of public transit running at least every 20 min during peak periods",,,,2,,,,,,,,,,,1,,,3,0,1,2,,,,,1
+,,,Average commute time,,,,2,,,,,,,,,,,1,,,1,2,1,,,,2,,1
+,Urban/local agriculture and food security,,Total urban agricultural area per 100 000 population,2,,,,,,,,,,,1,,,,,,2,1,,2,,,1,,1
+,,,Amount of food produced locally as a percentage of total food supplied to the city,2,,,,,,,,,,,,,,1,,,2,1,,2,,,1,,1
+,,,Percentage of city population undernourished,,,,,,,,2,,,,,,,,1,,3,0,3,,,,,,
+,,,Percentage of city population that is overweight or obese — Body Mass Index (BMI),,,,,,,,2,,,,,,,,1,,3,0,3,,,,,,
+,Urban planning,,Green area (hectares) per 100 000 population,2,,,,,,,,,,2,,,1,,,1,3,0,1,2,,,,3,1
+,,,Areal size of informal settlements as a per cent of city area,,1,,,,,,1,,,2,,,,,1,1,3,0,3,,,,,3,1
+,,,Jobs–housing ratio,,,,,,2,,,,,2,,,,,1,1,3,0,1,,2,,,3,
+,,,Basic service proximity,,,,,,,,2,,,,,,,1,,,3,0,3,,,,,,1
+,Wastewater,,Percentage of city population served by wastewater collection,,,1,,,,,1,,,2,,,,1,,1,3,0,1,2,,,,3,1
+,,,Percentage of the city’s wastewater receiving centralized treatment,,,2,,,,,,,,2,,,,1,,1,3,0,,3,,,,3,1
+,,,Percentage of population with access to improved sanitation,,,1,,,,,1,,,2,,,,1,,1,3,0,3,,,,,3,1
+,,,Compliance rate of wastewater treatment,,,2,,,,,,,,,,,,1,,1,3,0,,3,,,,,1
+,Water,,Percentage of city population with potable water supply service,,,1,,,,,1,,,2,,,,1,,1,3,0,3,,,,,3,
+,,,Percentage of city population with sustainable access to an improved water source ,,,2,,,,,,,,2,,,,1,,1,3,0,3,,,,,3,
+,,,Total domestic water consumption per capita (litres/day),,,2,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,
+,,,Compliance rate of drinking water quality,,,1,,,,,1,,,2,,,,1,,,3,0,3,,,,,,
+,,,Total water consumption per capita (litres/day) ,,,2,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,
+,,,Average annual hours of water service interruptions per household,,,2,,,,,,,,2,,,1,,,1,3,0,3,,,,,3,
+,,,Percentage of water loss (unaccounted for water) ,,,2,,,,,,,,2,,,1,,,1,3,0,1,1,1,,,3,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ISO/DIS 37122:2018,Economy,,Percentage of local businesses contracted to provide city services which have data openly available,,,,,,1,,,,1,2,,,,1,,1,0,3,,,,2,1,3,
+,,,Annual number of new start-ups per 100 000 population,,,,,,2,,,,,2,,,1,,,1,0,3,,,,,3,3,
+,,,Percentage of labour force employed in occupations in the Information and Communications Technology (ICT) sector,,,,,,1,,,,1,2,1,,,,,1,0,3,,,,3,,3,
+,,,Percentage of the labour force employed in occupations in the Education and Research & Development sectors,,,,,,1,1,,,,2,1,,,,,1,1,2,1,,,,2,3,
+,Education,,Annual number of visits to online databases offered by public libraries per 100 000 population,,,,,,,1,,,1,2,,,1,,,1,0,3,,,,1,2,3,
+,,,Percentage of city population with professional proficiency in one or more foreign languages,,,,,,,2,,,,2,,,,,1,1,1,2,,,1,,2,3,
+,,,"Number of computers, laptops, tablets, or other digital learning devices available per 1 000 primary school students",,,,,,,1,,,1,2,,,1,,,1,1,2,1,,,1,1,3,
+,,,"Number of computers, laptops, tablets, or other digital learning devices available per 1 000 secondary school students",,,,,,,1,,,1,2,,,1,,,1,1,2,1,,,1,1,3,
+,,,"Number of Science, Technology, Engineering, and Mathematics (STEM) higher education degrees per 100 000 population",,,,,,,2,,,,2,,,,,1,1,1,2,,,1,,2,3,
+,Energy,,"Electrical and thermal energy (kWh) produced from waste water treatment, solid waste treatment and other waste heat resources, as part of the city’s energy mix (%)",,,1,,1,,,,,,2,,,,1,,1,2,1,,2,,1,,3,1
+,,,Electrical and thermal energy (KWh) produced from wastewater treatment per capita per year ,,,1,,1,,,,,,2,,,,1,,1,2,1,,2,,1,,3,1
+,,,Electrical and thermal energy (KWh) produced from solid waste treatment per capita per year,,,1,,1,,,,,,2,,,,1,,1,2,1,,2,,1,,3,1
+,,,Percentage of the city’s energy that is produced using decentralized energy production systems,,,,,2,,,,,,2,,,,,1,1,2,1,,2,,1,,3,1
+,,,Storage capacity of the city’s energy grid per capita (GJ/person),,,,,2,,,,,,2,,,1,,,1,2,1,,2,,,1,3,1
+,,,Percentage of street lighting remotely managed by a light management system,,,,,1,,,,,1,2,,,1,,,1,1,2,,1,,2,,3,1
+,,,Percentage of street lighting that has been refurbished,,2,,,,,,,,,2,,,1,,,1,2,1,,2,,1,,3,1
+,,,Percentage of public buildings requiring renovation/refurbishment (by floor area),,2,,,,,,,,,2,,1,,,,1,3,0,,3,,,,3,1
+,,,Percentage of buildings in the city with smart electricity meters,,,,,1,,,,,1,2,,,1,,,1,1,2,,1,,2,,3,1
+,Environment and Climate Change,,Percentage of buildings built or refurbished within the last 5 years in conformity with green building principles,,2,,,,,,,,,2,,,1,,,1,3,0,,3,,,,3,1
+,,,Number of real-time remote air quality monitoring stations per square kilometre (km2),,,,,,,,1,,1,2,,,1,,,1,1,2,1,,,2,,3,1
+,,,Percentage of public buildings equipped for monitoring indoor air quality,,1,,,,,,,,1,2,,,1,,,1,1,2,1,,,2,,3,1
+,Finance,,Annual amount of revenues collected from the sharing economy as a percentage of own-source revenue,,,1,,,1,,,,,2,,,1,,,1,1,2,,1,,,2,3,
+,,,Percentage of payments to the city that are paid electronically based on electronic invoices,,,,,,1,,,,1,2,,,1,,,1,0,3,,,,3,,3,
+,Governance,,Percentage of municipal datasets available to the public,,,,,,,,,1,1,2,,,1,,,1,0,3,,,,1,2,3,
+,,,Annual number of online visits to the municipal open data portal per 100 000 population,,,,,,,,,1,1,2,,,1,,,1,0,3,,,,2,1,3,
+,,,Percentage of city services accessible online,,,,,,,,,1,1,2,,,1,,,1,0,3,,,,2,1,3,
+,,,Average response time to relevant inquiries made through the city’s non-emergency inquiry system (days),,,,,,,,,2,,2,,,1,,,1,0,3,,,,,3,3,
+,,,Average downtime of the city’s IT infrastructure,,,,,,,,,,2,2,,,1,,,1,0,3,,,,3,,3,
+,Health,,Percentage of the city population with online unified health file accessible to health care providers,,,,,,,,1,,1,2,,,,1,,1,1,2,1,,,2,,3,
+,,,Percentage of population with online access to their unified health file,,,,,,,,1,,1,2,,,,1,,1,1,2,1,,,2,,3,
+,,,Annual number of medical appointments conducted online per 100 000 population,,,,,,,,1,,1,2,,,1,,,1,0,3,,,,3,,3,
+,,,Percentage of the city population registered with public alert systems for air and water quality advisories,,,,,,,,1,,1,2,,,,1,,1,1,2,1,,,2,,3,
+,Housing,,Percentage of total land area that is a mixed use zone,,2,,,,,,,,,2,,,1,,,1,3,0,3,,,,,3,
+,,,Percentage of households with smart electricity meters,,,,,1,,,,,1,2,,,1,,,1,1,2,,1,,2,,3,1
+,,,Percentage of households with smart water meters,,,1,,,,,,,1,2,,,1,,,1,1,2,,1,,2,,3,1
+,Population and Social Conditions,,Percentage of public buildings that are accessible by persons with special needs,,1,,,,,,1,,,2,,,,1,,1,3,0,3,,,,,3,
+,,,"Percentage of municipal budget allocated for provision of mobility aids, devices, and assistive technologies to citizens with special needs",,,,,,1,,1,,,2,1,,,,,1,1,2,1,,,,2,3,
+,,,Number of persons with special needs that have real-time ICT-based interactive mapping applications per 100 000 population,,,,,,,,1,,1,2,,,1,,,1,0,3,,,,2,1,3,
+,,,Percentage of marked pedestrian crosswalks equipped with accessible pedestrian signals,,,,,,,,2,,,2,,,,1,,1,0,3,,,,2,1,3,
+,,,Percentage of public library technology programs designed for senior citizens,,,,,,,,1,,1,2,,,1,,,1,1,2,1,,,,2,3,
+,Recreation,,Percentage of public recreation services that can be booked online,,1,,,,,,,,1,2,,,1,,,1,1,2,1,,,2,,3,
+,Safety,,Percentage of the city area covered by digital surveillance cameras,,,,,,,,1,,1,2,,,,1,,1,1,2,1,,,2,,3,
+,Solid Waste,,Percentage of waste drop-off centres (containers) equipped with telemetering,,,1,,,,,,,1,2,,,1,,,1,1,2,,1,,2,,3,
+,,,Percentage of the city population that has a door-to-door garbage collection with an individual telemetering of household waste quantities,,,1,,,,,,,1,2,,,,1,,1,1,2,,1,,2,,3,
+,,,Percentage of total amount of waste in the city that is used to generate energy,,,1,,1,,,,,,2,,,,1,,1,2,1,,2,,1,,3,1
+,,,Percentage of total amount of plastic waste recycled in the city,,,2,,,,,,,,2,,,,1,,1,3,0,,3,,,,3,1
+,,,Percentage of public garbage bins that are sensor-enabled public garbage bins,,,1,,,,,,,1,2,,,1,,,1,1,2,,1,,2,,3,
+,,,Percentage the city’s electronic waste that is recycled,,,2,,,,,,,,2,,,,1,,1,3,0,,3,,,,3,1
+,Sport and Culture,,Number of online bookings to cultural facilities per 100 000 population,,,,,,,1,,,1,2,,,1,,,1,1,2,1,,,1,1,3,
+,,,Percentage of the city's cultural records that have been digitized,,,,,,,1,,,1,2,,,,1,,1,0,3,,,,2,1,3,
+,,,Number of public library book and e-book titles per 100 000 population,,,,,,,1,,,1,2,,,1,,,1,2,1,2,,,1,,3,
+,,,Percentage of city population that are active public library users,,,,,,,2,,,,2,,,,1,,1,3,0,3,,,,,3,
+,Telecommunication,,Percentage of the city population with access to sufficient speed broadband,,,,,,,,,,2,2,,,,1,,1,1,2,,,1,2,,3,
+,,,Percentage of city area under a white zone/dead spot/not covered by telecommunication connectivity,,,,,,,,,,2,2,,,,1,,1,1,2,,,1,2,,3,
+,,,Percentage of city area covered by municipally provided internet connectivity,,,,,,,,,,2,2,,,,1,,1,1,2,1,,,2,,3,
+,,,Number of municipal smart stations installed per 100 000 population,,,,,,,,,1,1,2,,,1,,,1,0,3,,,,1,2,3,
+,Transportation,,Percentage of city streets and thoroughfares covered by real-time online traffic alerts and information,,,,1,,,,,,1,2,,,,1,,1,0,3,,,,3,,3,1
+,,,Number of users of sharing economy transportation per 100 000 population,,,,2,,,,,,,2,,,,1,,1,1,2,,1,,,2,3,1
+,,,Percentage of vehicles registered in the city that are low-emission vehicles,,,,2,,,,,,,2,,,,1,,1,2,1,,2,,1,,3,1
+,,,Number of bicycles available through municipally provided bicycle sharing services per 100 000 population,,,,1,,,,1,,,2,,,1,,,1,3,0,1,2,,,,3,1
+,,,Percentage of public transport lines equipped with a real-time system,,,,1,,,,,,1,2,,,,1,,1,1,2,1,,,2,,3,1
+,,,Percentage of the city public transport network covered by a unified payment system,,,,1,,,,,,1,2,,,,1,,1,1,2,1,,,2,,3,1
+,,,Percentage of public parking spaces equipped with e-payment systems,,,,1,,,,,,1,2,,,,1,,1,0,3,,,,3,,3,1
+,,,Percentage of public parking spaces equipped with real-time availability systems,,,,1,,,,,,1,2,,,,1,,1,0,3,,,,3,,3,1
+,,,Percentage of traffic lights that are intelligent/smart,,,,1,,,,,,1,2,,,,1,,1,0,3,,,,3,,3,1
+,,,City area mapped by real-time interactive street maps as a percentage of city’s total land area,,,,,,,,,,2,2,,,,1,,1,0,3,,,,3,,3,
+,,,Percentage of vehicles registered in the city that are autonomous vehicles,,,,2,,,,,,,2,,,,1,,1,0,3,,,,3,,3,1
+,,,Percentage of public transport routes with municipally provided and/or managed internet connectivity for commuters,,,,1,,,,,,1,2,,,,1,,1,0,3,,,,3,,3,
+,,,Percentage of roads compliant with autonomous driving systems,,,,2,,,,,,,2,,,,1,,1,0,3,,,,3,,3,1
+,,,Percentage of vehicles fined for traffic violations making a payment through an online e-fine system,,,,1,,,,,,1,2,,,,1,,1,0,3,,,,3,,3,
+,Urban/Local Agriculture and Food Security,,Annual percentage of municipal budget spent on urban agriculture initiatives,1,,,,,1,,,,,2,1,,,,,1,1,2,,1,,,2,3,1
+,,,Annual total collected municipal food waste sent to a processing facility for composting per capita (in tonnes),,,2,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,Urban Planning,,Annual number of citizens engaged in the planning process per 100 000 population,,,,,,,,,2,,2,,,,,1,1,0,3,,,,,3,3,1
+,,,Average time for building permit approval (days),,1,,,,,,,1,,2,,,1,,,1,1,2,,,1,,2,3,
+,,,Percentage of building permits submitted through an electronic submission system,,1,,,,,,,,1,2,,,,1,,1,0,3,,,,2,1,3,
+,,,Percentage of the city population living at medium-to-high population densities,,2,,,,,,,,,2,,,,,1,1,3,0,,2,1,,,3,1
+,Wastewater,,Percentage of treated wastewater being reused,,,2,,,,,,,,2,,,,1,,1,2,1,,2,,1,,3,1
+,,,Percentage of sludge that is reused (dry matter tonnes),,,2,,,,,,,,2,,,,1,,1,2,1,,2,,1,,3,1
+,,,Energy derived from wastewater as a percentage of total energy consumption of the city,,,1,,1,,,,,,2,,,,1,,1,2,1,,2,,1,,3,1
+,,,Percentage of total amount of wastewater in the city that is used to generate energy,,,1,,1,,,,,,2,,,,1,,1,2,1,,2,,1,,3,1
+,,,Percentage of the wastewater pipeline network monitored by a real-time data tracking sensor system,,,1,,,,,,,1,2,,,,1,,1,1,2,,1,,2,,3,1
+,Water,,Percentage  drinking water under water quality monitoring by real-time water quality monitoring station,,,1,,,,,,,1,2,,,,1,,1,1,2,1,,,2,,3,
+,,,Number of real-time ICT-based environmental water quality monitoring stations per 100 000 population,,,1,,,,,,,1,2,,,1,,,1,1,2,,1,,2,,3,
+,,,Percentage of the city’s water distribution network monitored by a smart water system,,,1,,,,,,,1,2,,,,1,,1,1,2,,1,,2,,3,
+,,,Percentage of buildings in the city with smart water meters,,,1,,,,,,,1,2,,,,1,,1,1,2,,1,,2,,3,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ETSI TS 103 463 (2017),People,Health,Access to basic health care services,,,,,,,,2,,,2,,,,1,,1,3,0,3,,,,,3,
+,,,Encouraging a healthy lifestyle,,,,,,,,2,,,2,1,,,,,1,3,0,3,,,,,3,
+,,Safety,Traffic accidents,,,,1,,,,1,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Crime rate,,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Cybersecurity,,,,,,,,,,2,2,,,,1,,1,0,3,,,,3,,3,
+,,,Data privacy,,,,,,,,,,2,2,1,,,,,1,0,3,,,,3,,3,
+,,Access to (other) services,Access to public transport,,,,2,,,,,,,2,,,,1,,1,3,0,1,2,,,,3,1
+,,,Access to vehicle sharing solutions for city travel,,,,2,,,,,,,2,,,,1,,1,1,2,,1,,,2,3,1
+,,,Length of bike route network,,,,2,,,,,,,2,,,1,,,1,3,0,1,2,,,,3,1
+,,,Access to public amenities,,1,,,,,,1,,,2,,,1,,,1,2,1,2,,,,1,3,
+,,,Access to commercial amenities,,1,,,,1,,,,,2,,,1,,,1,2,1,2,,,,1,3,
+,,,Access to high speed internet,,,,,,,,,,2,2,,,1,,,1,1,2,,,1,2,,3,
+,,,Access to public free WiFi,,,,,,,,,,2,2,,,1,,,1,1,2,1,,,2,,3,
+,,,Flexibility in delivery services,,,,2,,,,,,,2,,,1,,,1,0,3,,,,3,,3,1
+,,Education,Access to educational resources,,,,,,,2,,,,2,,,1,,,1,1,2,1,,,1,1,3,
+,,,Environmental education,1,,,,,,1,,,,2,,,,1,,1,2,1,,2,,,1,3,1
+,,,Digital literacy,,,,,,,1,,,1,2,,,1,,,1,1,2,1,,,1,1,3,
+,,Quality of housing and the built environment,Diversity of housing,,2,,,,,,,,,2,,,1,,,1,3,0,3,,,,,3,
+,,,Preservation of cultural heritage,,,,,,,2,,,,2,,,1,,,1,3,0,2,,1,,,3,
+,,,Ground floor usage,,2,,,,,,,,,2,,,1,,,1,2,1,2,,,,1,3,
+,,,Public outdoor recreation space,1,,,,,,,1,,,2,,,1,,,1,2,1,2,,,,1,3,
+,,,Green space,2,,,,,,,,,,2,,,1,,,1,3,0,1,2,,,,3,
+,Planet,Energy & mitigation,Annual final energy consumption,,,,,2,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,Renewable energy generated within the city,,,,,2,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,CO2 emissions,2,,,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,Local freight transport fuel mix,,,,1,1,,,,,,2,,,,1,,1,3,0,,3,,,,3,1
+,,"Materials, water and land",Domestic material consumption,,,2,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,Water consumption,,,2,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,Grey and rain water use,,,2,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,Water exploitation index,,,2,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,Water losses,,,2,,,,,,,,2,,,,,1,1,3,0,,2,1,,,3,
+,,,Population density,,2,,,,,,,,,2,1,,,,,1,3,0,,2,1,,,3,1
+,,,Local food production,2,,,,,,,,,,2,,,1,,,1,1,2,,1,,,2,3,1
+,,,Brownfield use,,2,,,,,,,,,2,,,1,,,1,3,0,,3,,,,3,
+,,Climate resilience,Climate resilience strategy,2,,,,,,,,,,2,,1,,,,1,2,1,1,1,,,1,3,1
+,,,Urban heat island,,2,,,,,,,,,2,,,,,1,1,3,0,1,2,,,,3,1
+,,Pollution & waste,Nitrogen oxide emissions (NOx),1,,,,,,,1,,,2,,,,,1,1,3,0,2,1,,,,3,1
+,,,Fine particulate matter emissions (PM2.5),1,,,,,,,1,,,2,,,,,1,1,3,0,2,1,,,,3,1
+,,,Air quality index,1,,,,,,,1,,,2,,,,,1,1,3,0,2,1,,,,3,1
+,,,Noise pollution,,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Municipal solid waste,,,2,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,Recycling rate,,,2,,,,,,,,2,,,,1,,1,3,0,,3,,,,3,1
+,,Ecosystem,Share of green and water spaces,2,,,,,,,,,,2,,,1,,,1,3,0,1,2,,,,3,1
+,,,Change in number of native species,2,,,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,
+,Prosperity,Employment,Unemployment rate,,,,,,2,,,,,2,,,,,1,1,3,0,1,,2,,,3,
+,,,Youth unemployment rate,,,,,,2,,,,,2,,,,,1,1,3,0,1,,2,,,3,
+,,Equity,Fuel poverty,,,,,1,1,,,,,2,,,,,1,1,3,0,1,,2,,,3,1
+,,,Affordability of housing,,1,,,,1,,,,,2,,,,,1,1,3,0,1,,2,,,3,
+,,Green economy,Share of certified companies,,,,,,2,,,,,2,,,1,,,1,3,0,,1,2,,,3,1
+,,,Share of green public procurement,,,,,,1,,,1,,2,,,1,,,1,3,0,,1,2,,,3,1
+,,,Green jobs,1,,,,,1,,,,,2,,,1,,,1,3,0,,1,2,,,3,1
+,,,Freight movement,,,,2,,,,,,,2,,,1,,,1,1,2,,1,,2,,3,1
+,,Economic performance,Gross domestic product,,,,,,2,,,,,2,,,,,1,1,3,0,,,3,,,3,
+,,,New business registered,,,,,,2,,,,,2,,,1,,,1,1,2,,,1,,2,3,
+,,,Median disposable income,,,,,,2,,,,,2,,,,,1,1,3,0,1,,2,,,3,
+,,Innovation,Creative industry,,,,,,,2,,,,2,,,1,,,1,0,3,,,,,3,3,
+,,,Innovation hubs in the city,,,,,,,2,,,,2,,,1,,,1,0,3,,,,,3,3,
+,,,Accessibility of open data sets,,,,,,,,,2,,2,,,1,,,1,0,3,,,,2,1,3,
+,,,Research intensity,,,,,,,2,,,,2,1,,,,,1,0,3,,,,,3,3,
+,,,Open data,,,,,,,,,2,,2,,,1,,,1,0,3,,,,2,1,3,
+,,Attractiveness & competitiveness,Congestion,,,,2,,,,,,,2,,,,,1,1,1,2,1,,,2,,3,1
+,,,Public transport use,,,,2,,,,,,,2,,,,1,,1,3,0,1,2,,,,3,1
+,,,Net migration,,,,,,2,,,,,2,1,,,,,1,1,2,,,1,,2,3,1
+,,,Population dependency ratio,,,,,,2,,,,,2,1,,,,,1,3,0,,,3,,,3,
+,,,International events hold,,,,,,,2,,,,2,,,,,1,1,0,3,,,,,3,3,
+,,,Tourism intensity,,,,,,2,,,,,2,,,,,1,1,1,2,,,1,,2,3,
+,Governance,Organisation,Cross-departmental integration,,,,,,,,,2,,2,,1,,,,1,0,3,,,,,3,3,
+,,,Establishment within the administration,,,,,,,,,2,,2,,1,,,,1,0,3,,,,,3,3,
+,,,Monitoring and evaluation,,,,,,,,,2,,2,,1,,,,1,0,3,,,,,3,3,1
+,,,Availability of government data,,,,,,,,,2,,2,,,1,,,1,0,3,,,,1,2,3,1
+,,Community involvement,Citizen participation,,,,,,,,,2,,2,,,,1,,1,0,3,,,,,3,3,1
+,,,Open public participation,,,,,,,,,2,,2,,,,1,,1,0,3,,,,,3,3,1
+,,,Voter participation,,,,,,,,,2,,2,,,,1,,1,1,2,1,,,,2,3,1
+,,Multi-level governance,Smart city policy,,,,,,,,,2,,2,,1,,,,1,0,3,,,,,3,3,1
+,,,Expenditures by the municipality for a transition towards a smart city,,,,,,1,,,1,,2,1,,,,,1,0,3,,,,,3,3,1
+,,,Multilevel government,,,,,,,,,2,,2,,1,,,,1,0,3,,,,,3,3,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ITU-T Y.4901 (2016) ,Information and communication technology,Networks and access,Availability of computers or similar devices,,,,,,,,,,2,2,,,,1,,1,0,3,,,,3,,3,
+,,,Availability of Internet access in households,,,,,,,,,,2,2,,,,1,,1,1,2,,,1,2,,3,
+,,,Availability of fixed broadband subscriptions,,,,,,,,,,2,2,,,,1,,1,1,2,,,1,2,,3,
+,,,Availability of wireless broadband subscriptions,,,,,,,,,,2,2,,,,1,,1,1,2,,,1,2,,3,
+,,Services and information platforms platforms,Use of social media by the public sector,,,,,,,,,1,1,2,,,1,,,1,0,3,,,,1,2,3,
+,,Information security and privacy,Information security of public services and systems,,,,,,,,,1,1,2,,,1,,,1,0,3,,,,3,,3,
+,,,"Existence of systems, rules and regulations to ensure Child Online Protection (COP)",,,,,,,,1,,1,2,,,1,,,1,1,2,1,,,1,1,3,
+,,,"Existence of systems, rules and regulations to ensure privacy protection in public service",,,,,,,,,1,1,2,,,1,,,1,0,3,,,,2,1,3,
+,,Electromagnetic field,Compliance with WHO endorsed exposure guidelines,,,,,,,,1,,1,2,,,,1,,1,2,1,2,,,,1,3,
+,,,Adoption of a consistent planning approval process with respect to EMF,,,,,,,,1,1,,2,,1,,,,1,1,2,1,,,,2,3,
+,,,Availability of EMF information,,,,,,,,,1,1,2,,1,,,,1,1,2,1,,,,2,3,
+,Environmental sustainability,Air quality,Application of ICT based monitoring system for particles and toxic substances,,,,,,,,1,,1,2,,,1,,,1,1,2,1,,,2,,3,1
+,,"Water, soil and noise",Application of city water monitoring through ICT,,,1,,,,,,,1,2,,,1,,,1,1,2,1,,,2,,3,1
+,,,Application of ICT based noise monitoring,,,,,,,,1,,1,2,,,1,,,1,1,2,1,,,2,,3,
+,Productivity,Capital investment,ICT related Research and Development expenditure,,,,,,,,,,2,2,1,,,,,1,0,3,,,,1,2,3,
+,,,Investment intensity in ICT projects enabling SSC,,,,,,1,,,,1,2,1,,,,,1,0,3,,,,1,2,3,
+,,Trade,Application of e-commerce transactions,,,,,,1,,,,1,2,,,1,,,1,0,3,,,,2,1,3,
+,,Innovation,Research and Development intensity in ICT,,,,,,,1,,,1,2,1,,,,,1,0,3,,,,1,2,3,
+,,Knowledge economy,Intangible investments as a proportion of GDP,,,,,,1,1,,,,2,1,,,,,1,0,3,,,,,3,3,
+,,,Employees belonging to ICT sector,,,,,,,,,,2,2,1,,,,,1,0,3,,,,2,1,3,
+,,,Companies providing e-services,,,,,,1,,,,1,2,1,,,,,1,0,3,,,,3,,3,
+,,,Application of computing platforms,,,,,,,,,,2,2,,,1,,,1,0,3,,,,3,,3,
+,Quality of life,Education,Use of e-learning system,,,,,,,1,,,1,2,,,,1,,1,1,2,1,,,2,,3,
+,,Health,Use of electronic health records,,,,,,,,1,,1,2,,,,1,,1,1,2,1,,,2,,3,
+,,,Use of electronic medical records,,,,,,,,1,,1,2,,,,1,,1,1,2,1,,,2,,3,
+,,,"Sharing of medical resources and information among hospitals, pharmacies and other health care providers",,,,,,,,1,,1,2,,,,1,,1,1,2,1,,,2,,3,
+,,,Adoption of telemedicine,,,,,,,,1,,1,2,,,,1,,1,1,2,1,,,2,,3,
+,,Safety/security public place,Adoption of ICT for disaster management,,,,,,,,1,,1,2,,,1,,,1,1,2,,1,,2,,3,
+,,,Availability of ICT based safety systems,,,,,,,,1,,1,2,,,1,,,1,1,2,1,,,2,,3,
+,Equity and social inclusion,Openness and public participation,Availability of online city information and feedback mechanisms,,,,,,,,,1,1,2,,,1,,,1,0,3,,,,1,2,3,
+,,,Online civic engagement,,,,,,,,,1,1,2,,,,1,,1,0,3,,,,1,2,3,
+,,,Online support for new city inhabitants,,,,,,,,,1,1,2,,,1,,,1,0,3,,,,1,2,3,
+,,,"Existence of strategies, rules and regulations to enable ICT literacy among inhabitants",,,,,,,1,,,1,2,,1,,,,1,0,3,,,,1,2,3,
+,,Governance,Provision of online systems for administering public services and facilities,,,,,,,,,1,1,2,,,1,,,1,0,3,,,,2,1,3,
+,,,Application of services to support persons with specific needs,,,,,,,,2,,,2,,,1,,,1,2,1,2,,,,1,3,
+,Physical infrastructure,"Infrastructure/
+connection to services
+– piped water",Water supply system management using ICT,,,1,,,,,,,1,2,,,1,,,1,0,3,,,,3,,3,1
+,,,City fresh water sources monitored using ICT,,,1,,,,,,,1,2,,,1,,,1,1,2,1,,,2,,3,1
+,,,Availability of smart water meters,,,1,,,,,,,1,2,,,1,,,1,1,2,,1,,2,,3,1
+,,"Infrastructure/
+connection to
+services – sewage",Sewage system management using ICT,,,1,,,,,,,1,2,,,1,,,1,1,2,,1,,2,,3,1
+,,,Drainage system management using ICT,,,1,,,,,,,1,2,,,1,,,1,1,2,,1,,2,,3,1
+,,"Infrastructure/
+connection to services
+– electricity",Availability of smart electricity meters,,,,,1,,,,,1,2,,,1,,,1,1,2,,1,,2,,3,1
+,,"Infrastructure/
+connection to services
+– road infrastructure",Availability of traffic monitoring using ICT,,,,1,,,,,,1,2,,,1,,,1,1,2,1,,,2,,3,1
+,,,Availability of parking guidance systems,,,,1,,,,,,1,2,,,1,,,1,1,2,1,,,2,,3,1
+,,,Availability of real-time traffic information,,,,1,,,,,,1,2,,,1,,,1,1,2,1,,,2,,3,1
+,,,Street lighting management using ICT,,,,1,,,,,,1,2,,,1,,,1,1,2,1,,,2,,3,1
+,,,Gas system management using ICT,,,,1,,,,,,1,2,,,1,,,1,1,2,,1,,2,,3,1
+,,Building,Automatic energy management in buildings,,,,,1,,,,,1,2,,,1,,,1,1,2,,1,,2,,3,1
+,,,Integrated management in public buildings,,1,,,,,,,,1,2,,,1,,,1,1,2,,1,,2,,3,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ITU-T Y.4902 (2016),Environmental sustainability,Air quality,Air pollution intensity,1,,,,,,,1,,,2,,,,,1,1,3,0,2,1,,,,3,1
+,,CO2 emissions,GHG emissions,2,,,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,Energy,Use of alternative and renewable energy,,,,,2,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,Energy saving in households,,1,,,1,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,"Water, soil and noise",Quality of city water resources,,,2,,,,,,,,2,,,,,1,1,3,0,1,2,,,,3,1
+,,,Recycling of waste,,,2,,,,,,,,2,,,,1,,1,3,0,,3,,,,3,1
+,,,Exposure to noise,,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Soil pollution avoidance,2,,,,,,,,,,2,,,1,,,1,3,0,,3,,,,3,
+,,,Green areas surface,2,,,,,,,,,,2,,,1,,,1,3,0,1,2,,,,3,1
+,,,Perception on environmental quality,2,,,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,
+,Productivity,Capital investment,Improvement of industry productivity through ICT,,,,,,1,,,,1,2,,,,,1,1,0,3,,,,1,2,3,
+,,Employment,Service industry employment,,,,,,2,,,,,2,,,,,1,1,1,2,,,1,,2,3,
+,,Savings,Saving rate,,,,,,2,,,,,2,,,,,1,1,3,0,,,3,,,3,
+,,Export/import,Knowledge-intensive export/import,,,,,,1,1,,,,2,,,1,,,1,0,3,,,,,3,3,
+,,Household income/ consumption,Household ICT expenditures,,,,,,1,,,,1,2,1,,,,,1,2,1,,,2,1,,3,
+,,Innovation,Investments in ICT innovation,,,,,,1,,,,1,2,1,,,,,1,0,3,,,,1,2,3,
+,,,ICT related patents,,,,,,,1,,,1,2,,,1,,,1,0,3,,,,1,2,3,
+,Quality of life,Education,Students ICT availability,,,,,,,1,,,1,2,,,1,,,1,1,2,1,,,1,1,3,
+,,Health,Healthy life years (HLY),,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,1
+,,Safety/security public place,Disaster and emergencies alert accuracy,,,,,,,,2,,,2,,,,1,,1,1,2,1,,,2,,3,
+,Equity and social inclusion,"Inequity of
+income/ consumption",Income distribution,,,,,,2,,,,,2,,,,,1,1,3,0,1,,2,,,3,
+,,Social and gender inequity of access to services and infrastructure,Gender income disparity,,,,,,2,,,,,2,,,,,1,1,3,0,2,,1,,,3,
+,,Openness and public participation,Use of online city services,,,,,,,,,1,1,2,,,,1,,1,0,3,,,,2,1,3,
+,,,Perception on social inclusion,,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,
+,Physical infrastructure,"Infrastructure
+/connection to
+services – piped water",Leakage in water supply system,,,2,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,
+,,"Infrastructure
+/connection to
+services – sewage",Sewage system coverage,,,2,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,"Infrastructure
+/connection to
+services – electricity",Reliability of electricity supply system,,,,,2,,,,,,2,,,1,,,1,3,0,2,,1,,,3,
+,,"Infrastructure
+/connection to
+services – health
+infrastructure",Availability of sporting facilities,,,,,,,,2,,,2,,,1,,,1,2,1,2,,,,1,3,
+,,"Infrastructure
+/connection to
+services – transport",Use of public transport,,,,2,,,,,,,2,,,,1,,1,3,0,1,2,,,,3,1
+,,,Road traffic efficiency,,,,2,,,,,,,2,,,,1,,1,2,1,1,,1,1,,3,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ITU-T Y.4903 (2016),Economy,ICT infrastructure,Internet access in households,,,,,,,,,,2,2,,,,1,,1,1,2,,,1,2,,3,
+,,,Household with a computer,,,,,,,,,,2,2,,,,1,,1,1,2,,,1,2,,3,
+,,Innovation,Research and development expenditure,,,,,,1,1,,,,2,1,,,,,1,0,3,,,,,3,3,
+,,,Patents,,,,,,,2,,,,2,,,1,,,1,0,3,,,,,3,3,
+,,Employment,Employment rate,,,,,,2,,,,,2,,,,,1,1,3,0,1,,2,,,3,
+,,Productivity,Labour productivity,,,,,,2,,,,,2,,,,,1,1,2,1,,,2,,1,3,
+,,Physical infrastructure – Water Supply,Availability of smart water meters,,,1,,,,,,,1,2,,,,1,,1,1,2,,1,,2,,3,1
+,,Physical infrastructure – Electricity,Availability of smart electricity meters,,,,,1,,,,,1,2,,,,1,,1,1,2,,1,,2,,3,1
+,,,Electricity system outage frequency,,,,,2,,,,,,2,,,,1,,1,2,1,1,,1,1,,3,1
+,,,Electricity system outrage time,,,,,2,,,,,,2,,,,1,,1,2,1,1,,1,1,,3,1
+,,Physical infrastructure – Transport,Public transport network,,,,2,,,,,,,2,,,1,,,1,3,0,1,2,,,,3,1
+,,,Road traffic efficiency,,,,2,,,,,,,2,,,,1,,1,1,2,1,,,2,,3,1
+,,,Real-time public transport information,,,,1,,,,,,1,2,,,1,,,1,1,2,1,,,2,,3,1
+,Environment,Air quality,Air pollution,1,,,,,,,1,,,2,,,,,1,1,3,0,2,1,,,,3,1
+,,,GHG emissions,2,,,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,Water and sanitation,Quality of drinking water,,,1,,,,,1,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Access to improved water source,,,1,,,,,1,,,2,,,,1,,1,3,0,3,,,,,3,
+,,,Water consumption,1,,1,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,
+,,,Wastewater treated,,,2,,,,,,,,2,,,,1,,1,3,0,,3,,,,3,1
+,,,Wastewater collection,,,2,,,,,,,,2,,,,1,,1,3,0,,3,,,,3,1
+,,,Household sanitation,,,2,,,,,,,,2,,,,1,,1,3,0,2,1,,,,3,1
+,,Noise,Exposure to noise,,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,
+,,Environmental quality,Compliance with WHO endorsed exposure guidelines,,,,,,,,1,,1,2,,,,1,,1,2,1,2,,,,1,3,1
+,,,Adoption of a consistent planning approval process with respect to EMF,,,,,,,,1,1,,2,,1,,,,1,1,2,1,,,,2,3,
+,,,Availability of EMF information,,,,,,,,,1,1,2,,1,,,,1,1,2,1,,,,2,3,
+,,,Solid waste collection,,,2,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,Solid waste treatment,,,2,,,,,,,,2,,,,1,,1,3,0,,3,,,,3,1
+,,,Green areas and public spaces,1,1,,,,,,,,,2,,,1,,,1,3,0,2,1,,,,3,1
+,,Biodiversity,Native species monitoring,2,,,,,,,,,,2,,1,,,,1,2,1,,2,,1,,3,
+,,Energy,Access to Electricity,,,,2,,,,,,,2,,,,1,,1,3,0,3,,,,,3,1
+,,,Renewable energy consumption,,,,2,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,Electricity consumption,,,,2,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,Society and culture,Education,Students ICT access,,,,,,,1,,,1,2,,,1,,,1,1,2,1,,,2,,3,
+,,,Adult literacy,,,,,,,2,,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,School enrolment,,,,,,,2,,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Higher education ratio,,,,,,,2,,,,2,,,,,1,1,1,2,,,1,,2,3,
+,,Health,Electronic health records,,,,,,,,1,,1,2,,,1,,,1,1,2,1,,,2,,3,
+,,,Sharing of medical resources,,,,,,,,1,,1,2,,,1,,,1,1,2,1,,,2,,3,
+,,,Life expectancy,,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,1
+,,,Maternal mortality,,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,Doctors,,,,,,,,2,,,2,,,1,,,1,3,0,3,,,,,3,
+,,Safety - Disaster relief,Resilience plans,,,,,,,,2,,,2,,1,,,,1,2,1,2,,,,1,3,1
+,,Safety - Emergency,Emergency Service Response Time,,,,,,,,2,,,2,,,1,,,1,2,1,2,,,1,,3,
+,,Safety - ICT,Information security and privacy protection,,,,,,,,,,2,2,,1,,,,1,0,3,,,,3,,3,
+,,Housing,Housing expenditure,,1,,,,1,,,,,2,1,,,,,1,3,0,,,3,,,3,
+,,,Informal settlements,,1,,,,,,1,,,2,,,,,1,1,3,0,3,,,,,3,
+,,Culture,Connected libraries,,,,,,,2,,,,2,,,1,,,1,1,2,1,,,,2,3,
+,,,Cultural infrastructure,,,,,,,2,,,,2,,,1,,,1,0,3,,,,,3,3,
+,,,Cultural resources online,,,,,,,1,,,1,2,,,1,,,1,0,3,,,,1,2,3,
+,,Social inclusion,Public participation,,,,,,,,,2,,2,,,,1,,1,0,3,,,,,3,3,1
+,,,Gender income equity,,,,,,2,,,,,2,,,,,1,1,3,0,2,,1,,,3,
+,,,Opportunities for people with special needs,,,,,,,,2,,,2,,,1,,,1,3,0,3,,,,,3,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+UN IAEG SDG 11+ (2016),"SDG 11 ‘Make cities and human settlements inclusive, safe, resilient and sustainable’ ","11.1.By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums.","Proportion of urban population living in slums, informal settlements or inadequate housing.
+  - Access to improved water
+  - Access to improved sanitation
+  - Sufficient living area
+  - Structural quality/ durability of dwellings
+  - Security of tenure",,1,,,,,,1,,,2,,,,,1,1,3,0,3,,,,,3,1
+,,"11.2 By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all, improving road safety, notably by expanding public transport, with special attention to the needs of those in vulnerable situations, women, children, persons with disabilities and older persons.","Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities.",,,,2,,,,,,,2,,,,,1,1,3,0,2,1,,,,3,1
+,,"11.3: By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries.",Ratio of land consumption rate to population growth rate.,1,1,,,,,,,,,2,,,,,1,1,3,0,,3,,,,3,1
+,,,Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically.,,1,,,,,,,1,,2,,,,1,,1,0,3,,,,,3,3,1
+,,11.4: Strengthen efforts to protect and safeguard the world’s cultural and natural heritage.,"Total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage, by type of heritage (cultural, natural, mixed and World Heritage Centre designation), level of government (national, regional and local/municipal), type of expenditure (operating expenditure/investment) and type of private funding (donations in kind, private non-profit sector and sponsorship).",1,,,,,1,,,,,2,1,,,,,1,3,0,2,,1,,,3,
+,,"11.5: By 2030, significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations. ","Number of deaths, missing persons and persons directly affected by disaster per 100,000 people. ",,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,"Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruption of basic services, attributed to disasters. ",,,,,,1,,1,,,2,,,,,1,1,3,0,,,3,,,3,
+,,"11.6 By 2030, reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management. ","Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities.",,,2,,,,,,,,2,,,,1,,1,3,0,,3,,,,3,1
+,,,Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted). ,1,,,,,,,1,,,2,,,,,1,1,3,0,2,1,,,,3,1
+,,"11.7. By 2030, provide universal access to safe, inclusive and accessible, green and public spaces, in particular for women and children, older persons and persons with disabilities. ","Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities.",,1,,,,,,1,,,2,,,1,,,1,2,1,2,,,,1,3,1
+,,,"Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months.",,,,,,,,2,,,2,,,,,1,1,3,0,3,,,,,3,
+,,"11.a Support positive economic, social and environmental links between urban, peri-urban and rural areas by strengthening national and regional development planning.","Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city. Qualifying criteria:
+  -Responds to population dynamics
+  -Ensures balanced regional and territorial development
+  -Increases local fiscal space",,,,,,,,,2,,2,,1,,,,1,2,1,,1,1,,1,3,
+,,"11b. By 2020, substantially increase the number of cities and human settlements adopting and implementing integrated policies and plans towards inclusion, resource efficiency, mitigation and adaptation to climate change, resilience to disasters, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction 2015-2030, holistic disaster risk management at all levels.",Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030.,,,,,,,,,2,,2,,1,,,,1,2,1,2,,,,1,3,
+,,,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies.,,,,,,,,,2,,2,,1,,,,1,2,1,2,,,,1,3,
+,,"11c Support least developed countries, including through financial and technical assistance, in building sustainable and resilient buildings utilizing local materials.","Proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials.",1,,,,,1,,,,,2,1,,,,,1,3,0,,2,1,,,3,1
+,,"1.4 By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance.",Proportion of population living in households with access to basic services.,,1,,,,,,1,,,2,,,,,1,1,3,0,3,,,,,3,
+,,,"Proportion of total adult population with secure tenure rights to land, with legally recognized documentation and who perceive their rights to land as secure, by set and by type of tenure. ",,1,,,,,,,1,,2,,,,,1,1,3,0,3,,,,,3,
+,,"6.3. By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally.",Proportion of wastewater safely treated.,,,2,,,,,,,,2,,,,1,,1,3,0,,3,,,,3,1
+Total SUM,,,,58,43,109,70,44,93,66,141,62,140,790,29,18,134,109,123,398,764,475,356,297,111,269,206,1188,
