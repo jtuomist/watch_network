@@ -26,7 +26,8 @@ tie <- rbind(
 #[7] "taso_3"         "taso_4"         "taso_5"         "hinku.laskenta" "päästökauppa"   "emission"      
 #[13] "wind"           "energy_use"    
 
-colnames(df)[c(2,4,8,9,12:14)] <- c("municipality","year","level4","level5","emission","wind","energy_use")
+colnames(df)[c(2,4,8,9,11:14)] <- c("municipality","year","level4","level5","emission_trade",
+                                    "emission","wind","energy_use")
 
 #colnames(tie)
 #[1] "kuntanumero"     "kunta"           "maakunta"        "vuosi"           "taso_4"         
@@ -70,17 +71,18 @@ plot_ly(tmp, x=~year, y=~emission_factor, color=~year,
 # But there seems to be a meaningful time trend. So, we assume that oil heating has the same
 # emission factor for all level5 and municipality but specific for year.
 
-out <- data.frame(tmp, sector = "Öljylämmitys")
+out <- data.frame(tmp, final_use = "oil heating")
 
 ####### Consumer electricity
 
-tmp <- df[df$level4 %in% c("Kulutussähkö") | df$level5 %in% c("Lähijunat", "Metrot ja raitiovaunut","Sähkö"),]
+tmp <- df[df$level4 %in% c("Kulutussähkö") | df$level5 %in% c("Lähijunat",
+                                            "Metrot ja raitiovaunut","Sähkö"),]
 tmp <- aggregate(tmp[c("emission", "energy_use")], by = tmp[c("year")], FUN=sum)
 tmp$emission_factor <- tmp$emission / tmp$energy_use
 
 plot_ly(tmp, x=~year, y=~emission_factor, color=~year, type="scatter", mode="lines")
 
-out <- rbind(out, cbind(tmp, sector="Kulutussähkö"))
+out <- rbind(out, cbind(tmp, final_use="consumer electricity"))
 
 # Also electricity has a time trend but differences between communities and type_5 are just noise.
 # Therefore make a time trend of emission factors.
@@ -97,7 +99,7 @@ plot_ly(tmp, x=~year, y=~emission_factor, color=~year, type="scatter", mode="lin
 ## There is only noise between municipalities and level_5, therefore make a time trend only.
 # Geothermal energy does not differ from heating electricity and therefore it is merged here.
 
-out <- rbind(out, cbind(tmp, sector="Sähkölämmitys"))
+out <- rbind(out, cbind(tmp, final_use="heating electricity"))
 
 ######### Wood heating
 
@@ -113,25 +115,25 @@ plot_ly(tmp, x=~level5, y=~emission_factor, color=~level5, type="scatter", mode=
 
 out <- rbind(
   cbind(out, level5=NA),
-  cbind(tmp, sector="Kulutussähkö", year=NA))
+  cbind(tmp, final_use="consumer electricity", year=NA))
 
 ##################### District heating
 
 tmp <- df[df$level4=="Kaukolämpö",]
-tmp <- aggregate(tmp[c("emission", "energy_use")], by = tmp[c("municipality","year","päästökauppa")], FUN=sum)
+tmp <- aggregate(tmp[c("emission", "energy_use")], by = tmp[c("municipality","year","emission_trade")], FUN=sum)
 tmp$emission_factor <- tmp$emission / tmp$energy_use
 
 plot_ly(tmp, x=~year, y=~emission_factor, color=~municipality, type="scatter", mode="lines")
 
 ## There is only noise between level_5 but clear differences between municipalities and over time.
-#aggregate(tmp$päästökauppa, by=tmp["municipality"], FUN=function(x) mean(x=="On"))
+#aggregate(tmp$emission_trade, by=tmp["municipality"], FUN=function(x) mean(x=="On"))
 # This result shows that some municipalities have different kinds of district heating and
 # therefore they may have two different emission factors.
 # Thus, emission trade makes a difference in emission factor and it must be included.
 
 out <- rbind(
-  cbind(out, municipality=NA, päästökauppa=NA),
-  cbind(tmp, sector="Kaukolämpö",level5=NA))
+  cbind(out, municipality=NA, emission_trade=NA),
+  cbind(tmp, final_use="district heating",level5=NA))
 
 ##################### Other heating
 
@@ -146,34 +148,34 @@ plot_ly(tmp, x=~year, y=~emission_factor, color=~level5, type="scatter", mode="l
 
 ## There are differences between municipalities and level_5 as well as over time.
 ## However, the differences between municipalities is maybe not crucial, as the energy use of this
-## sector is fairly small, as it is only a few percent of the total.
+## final_use is fairly small, as it is only a few percent of the total.
 ## Therefore, only level_5 and year will be included.
 
-out <- rbind(out, cbind(tmp, sector="Muu lämmitys",päästökauppa=NA,municipality=NA))
+out <- rbind(out, cbind(tmp, final_use="other heating",emission_trade=NA,municipality=NA))
 
 ##################### Industry and machinery
 
 tmp <- df[df$taso_2=="Teollisuus ja työkoneet",]
-tmp <- aggregate(tmp[c("emission", "energy_use")], by = tmp[c("year","level5","päästökauppa")], FUN=sum)
+tmp <- aggregate(tmp[c("emission", "energy_use")], by = tmp[c("year","level5","emission_trade")], FUN=sum)
 tmp$emission_factor <- tmp$emission / tmp$energy_use
 
-plot_ly(tmp, x=~year, y=~emission_factor, color=~paste(level5,päästökauppa), type="scatter", mode="lines")
+plot_ly(tmp, x=~year, y=~emission_factor, color=~paste(level5,emission_trade), type="scatter", mode="lines")
 
 ## There are differences over time for industrial fuels. 
 ## For industrial and agriculatural machinery, there is only noise over time and across level_5.
 ## in contrast, the differences between municipalities seem to be noise.
 ## However, emission trade classification (yes/no) is used with Industrial fuels as can be shown:
-## #aggregate(tmp$päästökauppa, by=tmp["municipality"], FUN=function(x) mean(x=="On"))
+## #aggregate(tmp$emission_trade, by=tmp["municipality"], FUN=function(x) mean(x=="On"))
 ## Therefore, time and emission trade are included for industrial fuel, but all other level_5 will be constant.
 
 out <- rbind(out, cbind(tmp[tmp$level5=="Teollisuuden polttoaineet",],
-                        sector="Teollisuus ja työkoneet", municipality = NA))
+                        final_use="industry and machinery", municipality = NA))
 
 tmp <- df[df$taso_2=="Teollisuus ja työkoneet" & df$level5!="Teollisuuden polttoaineet",]
 tmp <- aggregate(tmp[c("emission","energy_use")], by=tmp["level5"],sum)
 tmp$emission_factor <- sum(tmp$emission) / sum(tmp$energy_use)
 
-out <- rbind(out, cbind(year=NA,municipality=NA, päästökauppa=NA,sector="Teollisuus ja työkoneet",tmp))
+out <- rbind(out, cbind(year=NA,municipality=NA, emission_trade=NA,final_use="industry and machinery",tmp))
 
 ############################# ANALYZE ROAD TRAFFIC EMISSION AND ENERGY FACTORS
 
@@ -240,7 +242,10 @@ ggplot(tmp, aes(x=year, y=emission_factor, color=level5))+geom_line()
 
 out <- rbind(out,
              cbind(tmp[!colnames(tmp) %in% c("mileage","energy_factor")],
-                   sector="Tieliikenne",municipality=NA,päästökauppa=NA))
+                   final_use="road transport",municipality=NA,emission_trade=NA))
+
+############### Add info about gas
+out$gas <- "CO2e"
 
 write.csv(out, "~/devel/ghg-notebooks/emission_factors_of_energy_consumption.csv", row.names=FALSE)
 
@@ -260,3 +265,34 @@ plot_ly(aggregate(tie$fuel_efficiency, by=tie[c("year","level5")], FUN=function(
 # * Fuel efficiency is almost constant over time, which is not realistic.
 # * Year and level5 are kept, other indices are aggregated.
 
+##### Mileage
+
+ggplot(tie, aes(x=mileage, colour=model))+stat_ecdf()+
+  facet_wrap(~level5, scale="free_x")+ 
+  scale_x_log10()
+
+# Based on the graph above, we can see:
+# * SYKE calculations are different in an unknown way and thus unusable.
+# * Läpiajoliikenne is just a fraction of the estimated total and therefore lower then other curves.
+# * Lipasto seems to be the best choice for general modelling (and possibly the source for other models)
+
+tmp <- tie[tie$model=="Lipasto" , c("municipality","year","level4","level5","mileage")]
+tmp <- reshape(tmp, timevar="year", v.names="mileage", idvar=c("municipality","level4","level5"), 
+               direction="wide")
+colnames(tmp) <- c("municipality","place","mode",2005:2018)
+
+#levels(tmp$place)
+#[1] "Kadut"                   "Moottoripyörät ja mopot" "Tiet"                   
+levels(tmp$place) <- c("street","street and road","road")
+
+#levels(tmp$mode)
+#[1] "Henkilöautot"   "Kuorma-autot"   "Linja-autot"    "Moottoripyörät" "Mopoautot"      "Mopot"         
+#[7] "Pakettiautot"  
+levels(tmp$mode) <- c("private car", "truck", "bus", "motorcycle", "microcar","moped","van")
+
+# Municipalities in Ahvenanmaa are empty. Replace with 0.
+for(i in 4:ncol(tmp)) {
+  tmp[[i]][is.na(tmp[[i]])] <- 0
+}
+
+write.csv(tmp, "~/devel/ghg-notebooks/lipasto_mileage.csv", row.names = FALSE)

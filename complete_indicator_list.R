@@ -1,3 +1,5 @@
+########## This code is used to draft the complete standard indicator list for climate watch.
+## Some of the objects mentioned in the code have been created at code synthesize_emission_factors.R.
 
 #############################
 ### Create the list of ALas model classes
